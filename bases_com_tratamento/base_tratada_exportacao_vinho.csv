@@ -1,745 +1,745 @@
-,data,pais_origem,continente_destino,pais_destino,litro,valor_usd
-0,2007-01-01,Brasil,Europa,"Alemanha, República Democrática",119512,238052
-1,2007-01-01,Brasil,África,Angola,25931,49753
-2,2007-01-01,Brasil,América Central,Antilhas Holandesas,17025,17949
-3,2007-01-01,Brasil,Oceania,Austrália,60,281
-4,2007-01-01,Brasil,América do Sul,Bolívia,4985,3550
-5,2007-01-01,Brasil,Europa,Bélgica,1077,3751
-6,2007-01-01,Brasil,América do Norte,Canadá,4172,18838
-7,2007-01-01,Brasil,América do Sul,Chile,60930,67353
-8,2007-01-01,Brasil,Ásia,China,7638,30390
-9,2007-01-01,Brasil,Ásia,Cingapura,7270,17864
-10,2007-01-01,Brasil,Ásia,"Coreia, Republica Sul",1012,4650
-11,2007-01-01,Brasil,América do Norte,Cuba,2669,5118
-12,2007-01-01,Brasil,Europa,Dinamarca,3480,11176
-13,2007-01-01,Brasil,América do Sul,Equador,2700,3585
-14,2007-01-01,Brasil,América do Norte,Estados Unidos,479269,810038
-15,2007-01-01,Brasil,Europa,Estônia,77697,54056
-16,2007-01-01,Brasil,Europa,França,6349,11231
-17,2007-01-01,Brasil,Europa,Itália,7209,19860
-18,2007-01-01,Brasil,Ásia,Japão,357943,316867
-19,2007-01-01,Brasil,Europa,Luxemburgo,785,2033
-20,2007-01-01,Brasil,América do Norte,México,2453,15425
-21,2007-01-01,Brasil,Europa,Noruega,10044,10044
-22,2007-01-01,Brasil,América Central,Panamá,810,1030
-23,2007-01-01,Brasil,América do Sul,Paraguai,1285459,801519
-24,2007-01-01,Brasil,Europa,Países Baixos,181046,364751
-25,2007-01-01,Brasil,Europa,Portugal,109074,165282
-26,2007-01-01,Brasil,África,Quênia,10600,13860
-27,2007-01-01,Brasil,Europa,Reino Unido,84613,144244
-28,2007-01-01,Brasil,América do Norte,República Dominicana,601,2438
-29,2007-01-01,Brasil,Europa,Rússia,266400,173160
-30,2007-01-01,Brasil,América do Sul,Suriname,2700,4603
-31,2007-01-01,Brasil,Europa,Suécia,919,2448
-32,2007-01-01,Brasil,Europa,Suíça,26090,70716
-33,2007-01-01,Brasil,Ásia,Tailândia,839,2020
-34,2007-01-01,Brasil,Ásia,Taiwan (FORMOSA),6377,11214
-35,2007-01-01,Brasil,Europa,"Tcheca, República",85303,189620
-36,2007-01-01,Brasil,África,Togo,11,11
-37,2007-01-01,Brasil,América do Sul,Venezuela,20700,27370
-38,2008-01-01,Brasil,Europa,"Alemanha, República Democrática",265742,429970
-39,2008-01-01,Brasil,África,Angola,25721,71083
-40,2008-01-01,Brasil,América Central,Antilhas Holandesas,17938,22908
-41,2008-01-01,Brasil,Oceania,Austrália,218726,99280
-42,2008-01-01,Brasil,África,Benin,10350,17423
-43,2008-01-01,Brasil,América do Sul,Bolívia,3979,3990
-44,2008-01-01,Brasil,Europa,Bélgica,3523,12969
-45,2008-01-01,Brasil,América do Norte,Canadá,20949,80476
-46,2008-01-01,Brasil,Ásia,China,8689,25926
-47,2008-01-01,Brasil,Ásia,Cingapura,1233,4699
-48,2008-01-01,Brasil,Ásia,"Coreia, Republica Sul",3520,14366
-49,2008-01-01,Brasil,América Central,Costa Rica,55,200
-50,2008-01-01,Brasil,Europa,Dinamarca,518,15905
-51,2008-01-01,Brasil,Ásia,Emirados Arabes Unidos,2437,12298
-52,2008-01-01,Brasil,Europa,"Eslovaca, Republica",585,16063
-53,2008-01-01,Brasil,Europa,Espanha,2942,6834
-54,2008-01-01,Brasil,América do Norte,Estados Unidos,443895,804607
-55,2008-01-01,Brasil,Europa,Estônia,4114,9730
-56,2008-01-01,Brasil,Europa,França,11078,27500
-57,2008-01-01,Brasil,África,Gana,18168,25642
-58,2008-01-01,Brasil,África,Guine Equatorial,548,1417
-59,2008-01-01,Brasil,América do Norte,Haiti,20,20
-60,2008-01-01,Brasil,América Central,Honduras,162,580
-61,2008-01-01,Brasil,Ásia,Hong Kong,2430,13460
-62,2008-01-01,Brasil,Ásia,Japão,232293,178333
-63,2008-01-01,Brasil,Europa,Luxemburgo,13606,42341
-64,2008-01-01,Brasil,África,Namibia,340,722
-65,2008-01-01,Brasil,África,Nigéria,7560,10920
-66,2008-01-01,Brasil,América Central,Panamá,1161,1882
-67,2008-01-01,Brasil,América do Sul,Paraguai,2191901,1374088
-68,2008-01-01,Brasil,Europa,Países Baixos,340412,783635
-69,2008-01-01,Brasil,Europa,Polônia,20290,58353
-70,2008-01-01,Brasil,Europa,Portugal,49090,48942
-71,2008-01-01,Brasil,Europa,Reino Unido,100097,155076
-72,2008-01-01,Brasil,Europa,Rússia,6207658,2352768
-73,2008-01-01,Brasil,América do Sul,Suriname,900,1625
-74,2008-01-01,Brasil,Europa,Suécia,26984,84564
-75,2008-01-01,Brasil,Europa,Suíça,54384,216317
-76,2008-01-01,Brasil,Ásia,Taiwan (FORMOSA),10030,18679
-77,2008-01-01,Brasil,Europa,"Tcheca, República",17135,64709
-78,2008-01-01,Brasil,África,Togo,5160,7800
-79,2009-01-01,Brasil,Europa,"Alemanha, República Democrática",225086,393482
-80,2009-01-01,Brasil,África,Angola,54786,84235
-81,2009-01-01,Brasil,América Central,Antilhas Holandesas,8235,10651
-82,2009-01-01,Brasil,América do Sul,Argentina,162,4523
-83,2009-01-01,Brasil,Oceania,Austrália,1014,9195
-84,2009-01-01,Brasil,América do Sul,Bolívia,40463,20729
-85,2009-01-01,Brasil,Europa,Bélgica,125962,58764
-86,2009-01-01,Brasil,América do Norte,Canadá,15664,73445
-87,2009-01-01,Brasil,América do Sul,Chile,1475,4297
-88,2009-01-01,Brasil,Ásia,China,1553416,482400
-89,2009-01-01,Brasil,Ásia,Cingapura,2419,6110
-90,2009-01-01,Brasil,Europa,Dinamarca,1980,21780
-91,2009-01-01,Brasil,América Central,El Salvador,55,100
-92,2009-01-01,Brasil,Ásia,Emirados Arabes Unidos,1398,4032
-93,2009-01-01,Brasil,Europa,Espanha,2181,4050
-94,2009-01-01,Brasil,América do Norte,Estados Unidos,372319,660066
-95,2009-01-01,Brasil,Europa,Estônia,5438,10802
-96,2009-01-01,Brasil,América Central,Guatemala,20,20
-97,2009-01-01,Brasil,África,Guine Equatorial,169,272
-98,2009-01-01,Brasil,América do Norte,Haiti,4500,5863
-99,2009-01-01,Brasil,América Central,Honduras,14,30
-100,2009-01-01,Brasil,Ásia,Hong Kong,50319,27188
-101,2009-01-01,Brasil,Europa,Itália,1817,5251
-102,2009-01-01,Brasil,Ásia,Japão,217974,283436
-103,2009-01-01,Brasil,Europa,Luxemburgo,7845,42124
-104,2009-01-01,Brasil,América Central,Nicaragua,24,24
-105,2009-01-01,Brasil,África,Nigéria,41,115
-106,2009-01-01,Brasil,América Central,Panamá,24,30
-107,2009-01-01,Brasil,América do Sul,Paraguai,486927,392087
-108,2009-01-01,Brasil,Europa,Países Baixos,171654,136991
-109,2009-01-01,Brasil,Europa,Polônia,6982,35797
-110,2009-01-01,Brasil,Europa,Portugal,141000,168923
-111,2009-01-01,Brasil,Europa,Reino Unido,30092,68788
-112,2009-01-01,Brasil,Europa,Rússia,21912914,5732280
-113,2009-01-01,Brasil,América do Sul,Suriname,3830,12918
-114,2009-01-01,Brasil,Europa,Suécia,28334,52826
-115,2009-01-01,Brasil,Europa,Suíça,27653,81319
-116,2009-01-01,Brasil,Europa,"Tcheca, República",9269,43902
-117,2009-01-01,Brasil,Ásia,Vietnã,743,2143
-118,2010-01-01,Brasil,Europa,"Alemanha, República Democrática",27715,138666
-119,2010-01-01,Brasil,África,Angola,33557,189891
-120,2010-01-01,Brasil,América Central,Antilhas Holandesas,9810,12808
-121,2010-01-01,Brasil,Oceania,Austrália,1823,17960
-122,2010-01-01,Brasil,América do Norte,Bahamas,3175,12759
-123,2010-01-01,Brasil,América do Sul,Bolívia,54,282
-124,2010-01-01,Brasil,Europa,Bélgica,42532,185411
-125,2010-01-01,Brasil,África,Cabo Verde,11991,49366
-126,2010-01-01,Brasil,Ásia,China,795,2358
-127,2010-01-01,Brasil,Ásia,Cingapura,1533,5504
-128,2010-01-01,Brasil,Europa,Dinamarca,7034,69161
-129,2010-01-01,Brasil,Ásia,Emirados Arabes Unidos,1035,3206
-130,2010-01-01,Brasil,América do Norte,Estados Unidos,228968,478630
-131,2010-01-01,Brasil,Europa,Estônia,15848,40778
-132,2010-01-01,Brasil,Europa,França,3614,18904
-133,2010-01-01,Brasil,América do Sul,Guiana,783,3654
-134,2010-01-01,Brasil,África,Guine Equatorial,410,1015
-135,2010-01-01,Brasil,América do Norte,Haiti,2700,3750
-136,2010-01-01,Brasil,Europa,Hungria,540,4103
-137,2010-01-01,Brasil,Europa,Irlanda,3969,42795
-138,2010-01-01,Brasil,Europa,Itália,1458,4828
-139,2010-01-01,Brasil,Ásia,Japão,112178,74628
-140,2010-01-01,Brasil,Europa,Luxemburgo,7344,32549
-141,2010-01-01,Brasil,América do Sul,Paraguai,510989,449197
-142,2010-01-01,Brasil,Europa,Países Baixos,87368,302182
-143,2010-01-01,Brasil,Europa,Polônia,20464,95198
-144,2010-01-01,Brasil,Europa,Portugal,4577,18970
-145,2010-01-01,Brasil,Europa,Reino Unido,123624,295690
-146,2010-01-01,Brasil,América do Sul,Suriname,1836,1269
-147,2010-01-01,Brasil,Europa,Suíça,2025,21600
-148,2010-01-01,Brasil,Europa,"Tcheca, República",1091,5285
-149,2010-01-01,Brasil,América do Sul,Uruguai,914,2929
-150,2010-01-01,Brasil,Ásia,Vietnã,8820,9977
-151,2011-01-01,Brasil,Europa,"Alemanha, República Democrática",36070,144150
-152,2011-01-01,Brasil,África,Angola,13889,69001
-153,2011-01-01,Brasil,América Central,Antilhas Holandesas,7335,10188
-154,2011-01-01,Brasil,América do Sul,Argentina,13253,55460
-155,2011-01-01,Brasil,América Central,Aruba,900,1680
-156,2011-01-01,Brasil,Oceania,Austrália,3632,40704
-157,2011-01-01,Brasil,América do Norte,Bahamas,4529,28810
-158,2011-01-01,Brasil,América do Sul,Bolívia,12775,20215
-159,2011-01-01,Brasil,Europa,Bélgica,11802,62339
-160,2011-01-01,Brasil,África,Cabo Verde,600,825
-161,2011-01-01,Brasil,América do Norte,Canadá,28906,128076
-162,2011-01-01,Brasil,Ásia,China,54156,334867
-163,2011-01-01,Brasil,Ásia,Cingapura,911,3317
-164,2011-01-01,Brasil,África,Congo,360,570
-165,2011-01-01,Brasil,América do Norte,Cuba,2880,4899
-166,2011-01-01,Brasil,Europa,Dinamarca,32797,83057
-167,2011-01-01,Brasil,Ásia,Emirados Arabes Unidos,2120,6594
-168,2011-01-01,Brasil,Europa,Espanha,5206,24618
-169,2011-01-01,Brasil,América do Norte,Estados Unidos,306787,1030254
-170,2011-01-01,Brasil,Europa,Estônia,450,5336
-171,2011-01-01,Brasil,Europa,Finlândia,12404,50394
-172,2011-01-01,Brasil,África,Guine Equatorial,956,1979
-173,2011-01-01,Brasil,Ásia,Hong Kong,2063,7975
-174,2011-01-01,Brasil,Europa,Irlanda,5376,35690
-175,2011-01-01,Brasil,Europa,Itália,11999,80298
-176,2011-01-01,Brasil,Ásia,Japão,100835,144662
-177,2011-01-01,Brasil,Europa,Luxemburgo,9547,65592
-178,2011-01-01,Brasil,América do Norte,México,1350,7200
-179,2011-01-01,Brasil,África,Nigéria,54,210
-180,2011-01-01,Brasil,Europa,Noruega,10268,78688
-181,2011-01-01,Brasil,Oceania,Nova Zelândia,2587,7992
-182,2011-01-01,Brasil,América do Sul,Paraguai,240168,276281
-183,2011-01-01,Brasil,Europa,Países Baixos,125414,395356
-184,2011-01-01,Brasil,Europa,Polônia,11732,50684
-185,2011-01-01,Brasil,Europa,Portugal,95,1031
-186,2011-01-01,Brasil,Europa,Reino Unido,122629,285642
-187,2011-01-01,Brasil,América do Sul,Suriname,3774,3735
-188,2011-01-01,Brasil,Europa,Suécia,1641,14476
-189,2011-01-01,Brasil,Ásia,Taiwan (FORMOSA),4500,10600
-190,2011-01-01,Brasil,Europa,"Tcheca, República",6846,37271
-191,2011-01-01,Brasil,América do Sul,Uruguai,1238,4404
-192,2012-01-01,Brasil,Europa,"Alemanha, República Democrática",8189,56342
-193,2012-01-01,Brasil,África,Angola,2833,8861
-194,2012-01-01,Brasil,América Central,Antilhas Holandesas,9247,14081
-195,2012-01-01,Brasil,Oceania,Austrália,9345,56045
-196,2012-01-01,Brasil,América do Norte,Bahamas,1374,12087
-197,2012-01-01,Brasil,América do Sul,Bolívia,11868,16804
-198,2012-01-01,Brasil,Europa,Bélgica,16132,90718
-199,2012-01-01,Brasil,América do Norte,Canadá,14304,146035
-200,2012-01-01,Brasil,América do Sul,Chile,8550,15438
-201,2012-01-01,Brasil,Ásia,China,87905,642177
-202,2012-01-01,Brasil,Ásia,Cingapura,1212,5310
-203,2012-01-01,Brasil,Europa,Dinamarca,4716,23802
-204,2012-01-01,Brasil,Ásia,Emirados Arabes Unidos,675,3300
-205,2012-01-01,Brasil,América do Norte,Estados Unidos,146585,303986
-206,2012-01-01,Brasil,Europa,Estônia,3321,19384
-207,2012-01-01,Brasil,Europa,Finlândia,17100,67959
-208,2012-01-01,Brasil,Europa,França,195604,185791
-209,2012-01-01,Brasil,África,Guine Equatorial,819,2530
-210,2012-01-01,Brasil,Ásia,Hong Kong,1609,7653
-211,2012-01-01,Brasil,Europa,Itália,792,5622
-212,2012-01-01,Brasil,Ásia,Japão,29281,116961
-213,2012-01-01,Brasil,Europa,Luxemburgo,2444,16547
-214,2012-01-01,Brasil,África,Nigéria,6449,10196
-215,2012-01-01,Brasil,Europa,Noruega,5104,31515
-216,2012-01-01,Brasil,Oceania,Nova Zelândia,2364,8817
-217,2012-01-01,Brasil,América Central,Panamá,39,2262
-218,2012-01-01,Brasil,América do Sul,Paraguai,354824,428279
-219,2012-01-01,Brasil,Europa,Países Baixos,134879,539641
-220,2012-01-01,Brasil,Europa,Polônia,21663,89158
-221,2012-01-01,Brasil,Europa,Portugal,47172,47022
-222,2012-01-01,Brasil,África,Quênia,94,458
-223,2012-01-01,Brasil,Europa,Reino Unido,82937,334856
-224,2012-01-01,Brasil,Europa,Rússia,4528176,2103968
-225,2012-01-01,Brasil,América do Sul,Suriname,396,1288
-226,2012-01-01,Brasil,Europa,Suécia,2705,17280
-227,2012-01-01,Brasil,Europa,Suíça,4014,47240
-228,2012-01-01,Brasil,Europa,"Tcheca, República",7960,27789
-229,2012-01-01,Brasil,América Central,Trinidade Tobago,531,2720
-230,2012-01-01,Brasil,América do Sul,Uruguai,1135,3879
-231,2012-01-01,Brasil,América do Sul,Venezuela,1029,7492
-232,2013-01-01,Brasil,Europa,"Alemanha, República Democrática",61699,265978
-233,2013-01-01,Brasil,África,Angola,1573,9300
-234,2013-01-01,Brasil,América Central,Antilhas Holandesas,11281,19565
-235,2013-01-01,Brasil,Oceania,Austrália,16707,101715
-236,2013-01-01,Brasil,América do Norte,Bahamas,581,5145
-237,2013-01-01,Brasil,América do Sul,Bolívia,19147,25998
-238,2013-01-01,Brasil,Europa,Bélgica,22461,95893
-239,2013-01-01,Brasil,América do Norte,Canadá,25329,174643
-240,2013-01-01,Brasil,Ásia,China,40929,279956
-241,2013-01-01,Brasil,Ásia,Cingapura,766,5779
-242,2013-01-01,Brasil,América do Sul,Colômbia,8,30
-243,2013-01-01,Brasil,Europa,Dinamarca,17892,101915
-244,2013-01-01,Brasil,Europa,Espanha,1972980,3748940
-245,2013-01-01,Brasil,América do Norte,Estados Unidos,245368,786556
-246,2013-01-01,Brasil,Europa,Finlândia,36682,283114
-247,2013-01-01,Brasil,Europa,França,6885,42256
-248,2013-01-01,Brasil,África,Guine Equatorial,1108,5336
-249,2013-01-01,Brasil,Ásia,Hong Kong,16013,61224
-250,2013-01-01,Brasil,Europa,Itália,1710,11967
-251,2013-01-01,Brasil,Ásia,Japão,91988,429088
-252,2013-01-01,Brasil,Europa,Luxemburgo,5135,29474
-253,2013-01-01,Brasil,África,Nigéria,1350,2245
-254,2013-01-01,Brasil,Europa,Noruega,2375,19008
-255,2013-01-01,Brasil,Oceania,Nova Zelândia,1004,4092
-256,2013-01-01,Brasil,América do Sul,Paraguai,481564,680828
-257,2013-01-01,Brasil,Europa,Países Baixos,57792,255690
-258,2013-01-01,Brasil,Europa,Polônia,19249,90960
-259,2013-01-01,Brasil,Europa,Portugal,23810,17627
-260,2013-01-01,Brasil,África,Quênia,6,4
-261,2013-01-01,Brasil,Europa,Reino Unido,59161,305005
-262,2013-01-01,Brasil,Europa,Rússia,5893291,14795694
-263,2013-01-01,Brasil,América do Sul,Suriname,1800,2960
-264,2013-01-01,Brasil,Europa,Suécia,3195,20183
-265,2013-01-01,Brasil,Europa,Suíça,2997,29785
-266,2013-01-01,Brasil,Europa,"Tcheca, República",3697,23549
-267,2013-01-01,Brasil,América do Sul,Uruguai,1526,13343
-268,2014-01-01,Brasil,Europa,"Alemanha, República Democrática",213348,761653
-269,2014-01-01,Brasil,África,Angola,12182,23124
-270,2014-01-01,Brasil,América Central,Antilhas Holandesas,4455,7169
-271,2014-01-01,Brasil,América do Sul,Argentina,20385,95130
-272,2014-01-01,Brasil,América Central,Aruba,450,755
-273,2014-01-01,Brasil,Oceania,Austrália,6308,43709
-274,2014-01-01,Brasil,América do Sul,Bolívia,12534,18303
-275,2014-01-01,Brasil,Europa,Bélgica,151320,704093
-276,2014-01-01,Brasil,América do Norte,Canadá,35082,226875
-277,2014-01-01,Brasil,Ásia,China,64040,455340
-278,2014-01-01,Brasil,Ásia,Cingapura,541,3887
-279,2014-01-01,Brasil,América do Norte,Cuba,38875,43200
-280,2014-01-01,Brasil,Europa,Dinamarca,3240,16871
-281,2014-01-01,Brasil,Ásia,Emirados Arabes Unidos,640,3381
-282,2014-01-01,Brasil,América do Norte,Estados Unidos,222267,494216
-283,2014-01-01,Brasil,Europa,Finlândia,12960,94962
-284,2014-01-01,Brasil,Europa,França,33755,167807
-285,2014-01-01,Brasil,África,Guine Equatorial,5646,11983
-286,2014-01-01,Brasil,Ásia,Hong Kong,18130,63534
-287,2014-01-01,Brasil,Europa,Itália,604,2492
-288,2014-01-01,Brasil,Ásia,Japão,106426,401774
-289,2014-01-01,Brasil,Europa,Luxemburgo,8281,52400
-290,2014-01-01,Brasil,América do Norte,México,1521,24336
-291,2014-01-01,Brasil,Europa,Noruega,7179,50464
-292,2014-01-01,Brasil,Oceania,Nova Zelândia,2800,13675
-293,2014-01-01,Brasil,América do Sul,Paraguai,521847,908028
-294,2014-01-01,Brasil,Europa,Países Baixos,165289,773767
-295,2014-01-01,Brasil,Europa,Polônia,30181,107957
-296,2014-01-01,Brasil,Europa,Portugal,71544,79141
-297,2014-01-01,Brasil,Europa,Reino Unido,305807,1373747
-298,2014-01-01,Brasil,Europa,Rússia,190656,61440
-299,2014-01-01,Brasil,América do Sul,Suriname,6,19
-300,2014-01-01,Brasil,Europa,Suécia,10404,51057
-301,2014-01-01,Brasil,Europa,Suíça,27933,231762
-302,2014-01-01,Brasil,Ásia,Taiwan (FORMOSA),12519,67907
-303,2014-01-01,Brasil,Europa,"Tcheca, República",4500,35005
-304,2014-01-01,Brasil,América Central,Trinidade Tobago,360,1600
-305,2014-01-01,Brasil,América do Sul,Venezuela,14,232
-306,2015-01-01,Brasil,Europa,"Alemanha, República Democrática",10680,44780
-307,2015-01-01,Brasil,África,Angola,1908,17089
-308,2015-01-01,Brasil,América Central,Antilhas Holandesas,6660,10545
-309,2015-01-01,Brasil,Oceania,Austrália,7437,48011
-310,2015-01-01,Brasil,América do Sul,Bolívia,10674,12990
-311,2015-01-01,Brasil,Europa,Bélgica,4473,26399
-312,2015-01-01,Brasil,América do Norte,Canadá,24547,118394
-313,2015-01-01,Brasil,Ásia,China,47609,222866
-314,2015-01-01,Brasil,Ásia,Cingapura,1116,2774
-315,2015-01-01,Brasil,América do Norte,Cuba,97965,108864
-316,2015-01-01,Brasil,Europa,Dinamarca,7080,29306
-317,2015-01-01,Brasil,Ásia,Emirados Arabes Unidos,765,3740
-318,2015-01-01,Brasil,América do Norte,Estados Unidos,195896,524109
-319,2015-01-01,Brasil,Europa,França,1596,4749
-320,2015-01-01,Brasil,Ásia,Hong Kong,1229,7837
-321,2015-01-01,Brasil,Ásia,Japão,31597,87853
-322,2015-01-01,Brasil,Europa,Luxemburgo,2295,17358
-323,2015-01-01,Brasil,Europa,Noruega,1058,6021
-324,2015-01-01,Brasil,Oceania,Nova Zelândia,809,3476
-325,2015-01-01,Brasil,América do Sul,Paraguai,495428,741370
-326,2015-01-01,Brasil,Europa,Países Baixos,44987,186464
-327,2015-01-01,Brasil,Europa,Polônia,11654,42781
-328,2015-01-01,Brasil,Europa,Portugal,47736,42586
-329,2015-01-01,Brasil,Europa,Reino Unido,68382,308407
-330,2015-01-01,Brasil,Europa,Rússia,47664,18240
-331,2015-01-01,Brasil,América do Sul,Suriname,453,713
-332,2015-01-01,Brasil,Europa,Suécia,1412,6404
-333,2015-01-01,Brasil,Europa,Suíça,15872,85790
-334,2015-01-01,Brasil,Ásia,Taiwan (FORMOSA),7200,23940
-335,2015-01-01,Brasil,Europa,"Tcheca, República",2297,15304
-336,2016-01-01,Brasil,Europa,"Alemanha, República Democrática",14012,68109
-337,2016-01-01,Brasil,África,Angola,7359,35390
-338,2016-01-01,Brasil,América Central,Antilhas Holandesas,16641,26450
-339,2016-01-01,Brasil,Oceania,Austrália,1954,13799
-340,2016-01-01,Brasil,África,Benin,5040,20333
-341,2016-01-01,Brasil,América do Sul,Bolívia,13586,16902
-342,2016-01-01,Brasil,Europa,Bélgica,7200,46534
-343,2016-01-01,Brasil,América do Norte,Canadá,13711,71096
-344,2016-01-01,Brasil,Ásia,China,134106,499622
-345,2016-01-01,Brasil,Ásia,Cingapura,5445,13199
-346,2016-01-01,Brasil,Ásia,"Coreia, Republica Sul",8,20
-347,2016-01-01,Brasil,América do Norte,Cuba,63741,69830
-348,2016-01-01,Brasil,Europa,Dinamarca,1278,8171
-349,2016-01-01,Brasil,Ásia,Emirados Arabes Unidos,585,2760
-350,2016-01-01,Brasil,América do Norte,Estados Unidos,258072,687411
-351,2016-01-01,Brasil,Europa,Estônia,900,4800
-352,2016-01-01,Brasil,Europa,Finlândia,7617,41003
-353,2016-01-01,Brasil,Europa,França,6037,30055
-354,2016-01-01,Brasil,Ásia,Hong Kong,6975,86199
-355,2016-01-01,Brasil,Europa,Itália,585,3465
-356,2016-01-01,Brasil,Ásia,Japão,34341,90954
-357,2016-01-01,Brasil,Europa,Luxemburgo,2759,21426
-358,2016-01-01,Brasil,Oceania,Nova Zelândia,504,9472
-359,2016-01-01,Brasil,América do Sul,Paraguai,985739,1655417
-360,2016-01-01,Brasil,Europa,Países Baixos,42953,190203
-361,2016-01-01,Brasil,Europa,Polônia,11457,35402
-362,2016-01-01,Brasil,Europa,Reino Unido,117044,536681
-363,2016-01-01,Brasil,América do Sul,Suriname,900,1375
-364,2016-01-01,Brasil,Europa,Suécia,291,1214
-365,2016-01-01,Brasil,Europa,Suíça,4230,33340
-366,2016-01-01,Brasil,Ásia,Taiwan (FORMOSA),16967,80379
-367,2016-01-01,Brasil,Europa,"Tcheca, República",3837,28473
-368,2016-01-01,Brasil,Europa,Áustria,675,5220
-369,2017-01-01,Brasil,Europa,"Alemanha, República Democrática",15467,87702
-370,2017-01-01,Brasil,África,Angola,10170,61680
-371,2017-01-01,Brasil,América Central,Antilhas Holandesas,5400,8550
-372,2017-01-01,Brasil,Oceania,Austrália,1350,7500
-373,2017-01-01,Brasil,América do Sul,Bolívia,9495,23085
-374,2017-01-01,Brasil,Europa,Bulgária,117,1579
-375,2017-01-01,Brasil,Europa,Bélgica,2790,16405
-376,2017-01-01,Brasil,África,Camarões,1749,7476
-377,2017-01-01,Brasil,América do Norte,Canadá,6075,30658
-378,2017-01-01,Brasil,Ásia,Catar,13338,81606
-379,2017-01-01,Brasil,Ásia,China,67594,266086
-380,2017-01-01,Brasil,América do Norte,Cuba,62791,72229
-381,2017-01-01,Brasil,América Central,Curaçao,12340,23011
-382,2017-01-01,Brasil,Europa,Dinamarca,581,2829
-383,2017-01-01,Brasil,Ásia,Emirados Arabes Unidos,675,3302
-384,2017-01-01,Brasil,América do Norte,Estados Unidos,132688,1523699
-385,2017-01-01,Brasil,Europa,França,4253,21654
-386,2017-01-01,Brasil,África,Guine Bissau,48,90
-387,2017-01-01,Brasil,África,Guine Equatorial,2639,30563
-388,2017-01-01,Brasil,Ásia,Hong Kong,1934,8180
-389,2017-01-01,Brasil,Europa,Itália,468,2248
-390,2017-01-01,Brasil,Ásia,Japão,33909,92886
-391,2017-01-01,Brasil,Europa,Letônia,387,3723
-392,2017-01-01,Brasil,Europa,Luxemburgo,2719,21947
-393,2017-01-01,Brasil,América do Norte,México,664,2292
-394,2017-01-01,Brasil,Oceania,Nova Zelândia,1678,8140
-395,2017-01-01,Brasil,América do Sul,Paraguai,2393468,4274650
-396,2017-01-01,Brasil,Europa,Reino Unido,60711,242883
-397,2017-01-01,Brasil,América do Sul,Suriname,3690,5638
-398,2017-01-01,Brasil,Europa,Suécia,15445,64953
-399,2017-01-01,Brasil,Europa,Suíça,6525,74816
-400,2017-01-01,Brasil,Ásia,Taiwan (FORMOSA),14988,43954
-401,2017-01-01,Brasil,Europa,"Tcheca, República",2746,16947
-402,2017-01-01,Brasil,América do Sul,Venezuela,680,2646
-403,2018-01-01,Brasil,Europa,"Alemanha, República Democrática",10794,45382
-404,2018-01-01,Brasil,África,Angola,477,709
-405,2018-01-01,Brasil,América Central,Antígua e Barbuda,37,191
-406,2018-01-01,Brasil,América do Sul,Argentina,15711,59150
-407,2018-01-01,Brasil,Oceania,Austrália,2055,6902
-408,2018-01-01,Brasil,América do Norte,Bahamas,141,634
-409,2018-01-01,Brasil,América do Sul,Bolívia,21566,57424
-410,2018-01-01,Brasil,Europa,Bélgica,7497,52799
-411,2018-01-01,Brasil,África,Cabo Verde,18,48
-412,2018-01-01,Brasil,América do Norte,Canadá,5308,20414
-413,2018-01-01,Brasil,América do Norte,"Cayman, Ilhas",19,203
-414,2018-01-01,Brasil,América do Sul,Chile,11049,42832
-415,2018-01-01,Brasil,Ásia,China,30835,126336
-416,2018-01-01,Brasil,Europa,Chipre,279,480
-417,2018-01-01,Brasil,Ásia,Cingapura,3298,11616
-418,2018-01-01,Brasil,América do Sul,Colômbia,6944,26273
-419,2018-01-01,Brasil,Ásia,"Coreia, Republica Sul",120,109
-420,2018-01-01,Brasil,América do Norte,Cuba,4776,5584
-421,2018-01-01,Brasil,América Central,Curaçao,23930,43676
-422,2018-01-01,Brasil,Ásia,Emirados Arabes Unidos,360,1762
-423,2018-01-01,Brasil,Europa,Espanha,6123,22631
-424,2018-01-01,Brasil,América do Norte,Estados Unidos,169109,512519
-425,2018-01-01,Brasil,Ásia,Filipinas,9608,16205
-426,2018-01-01,Brasil,Europa,França,11077,48677
-427,2018-01-01,Brasil,África,Gana,9000,13502
-428,2018-01-01,Brasil,Europa,Grécia,232,730
-429,2018-01-01,Brasil,África,Guine Equatorial,8389,26808
-430,2018-01-01,Brasil,América do Norte,Haiti,79500,144425
-431,2018-01-01,Brasil,Ásia,Hong Kong,1742,9029
-432,2018-01-01,Brasil,Europa,Irlanda,7560,25767
-433,2018-01-01,Brasil,Europa,Itália,3661,13260
-434,2018-01-01,Brasil,Ásia,Japão,36992,112342
-435,2018-01-01,Brasil,África,Libéria,658,3100
-436,2018-01-01,Brasil,Europa,Luxemburgo,1778,11053
-437,2018-01-01,Brasil,Europa,Malta,503,1192
-438,2018-01-01,Brasil,Ásia,Malásia,15,33
-439,2018-01-01,Brasil,Oceania,"Marshall, Ilhas",923,2436
-440,2018-01-01,Brasil,América do Norte,México,2748,9744
-441,2018-01-01,Brasil,África,Nigéria,5175,6250
-442,2018-01-01,Brasil,Europa,Noruega,1295,9847
-443,2018-01-01,Brasil,Oceania,Nova Zelândia,969,5565
-444,2018-01-01,Brasil,América Central,Panamá,1183,3117
-445,2018-01-01,Brasil,América do Sul,Paraguai,3234168,5494321
-446,2018-01-01,Brasil,Europa,Países Baixos,9451,32395
-447,2018-01-01,Brasil,América do Sul,Peru,5193,19372
-448,2018-01-01,Brasil,Europa,Polônia,720,4679
-449,2018-01-01,Brasil,África,Quênia,6771,31225
-450,2018-01-01,Brasil,Europa,Reino Unido,67708,296827
-451,2018-01-01,Brasil,Europa,Suécia,8062,34563
-452,2018-01-01,Brasil,África,São Tomé e Príncipe,2184,2357
-453,2018-01-01,Brasil,Ásia,Tailândia,8,45
-454,2018-01-01,Brasil,Ásia,Taiwan (FORMOSA),7589,18421
-455,2018-01-01,Brasil,Europa,"Tcheca, República",2712,20980
-456,2018-01-01,Brasil,Ásia,Turquia,360,150
-457,2018-01-01,Brasil,América do Sul,Uruguai,7711,29617
-458,2018-01-01,Brasil,América do Sul,Venezuela,71,355
-459,2019-01-01,Brasil,Europa,"Alemanha, República Democrática",3660,25467
-460,2019-01-01,Brasil,África,Angola,345,1065
-461,2019-01-01,Brasil,América Central,Antígua e Barbuda,219,1549
-462,2019-01-01,Brasil,Oceania,Austrália,1161,4682
-463,2019-01-01,Brasil,América do Norte,Bahamas,791,3124
-464,2019-01-01,Brasil,América Central,Barbados,36,394
-465,2019-01-01,Brasil,Ásia,Barein,482,2144
-466,2019-01-01,Brasil,América Central,Belice,9,29
-467,2019-01-01,Brasil,África,Benin,9,9
-468,2019-01-01,Brasil,Europa,Bélgica,2498,12548
-469,2019-01-01,Brasil,América do Norte,Canadá,1589,6933
-470,2019-01-01,Brasil,América do Norte,"Cayman, Ilhas",19,106
-471,2019-01-01,Brasil,Ásia,China,129852,376828
-472,2019-01-01,Brasil,Europa,Chipre,672,1843
-473,2019-01-01,Brasil,Ásia,Cingapura,5044,19099
-474,2019-01-01,Brasil,América do Sul,Colômbia,897,1999
-475,2019-01-01,Brasil,Ásia,"Coreia, Republica Sul",70,194
-476,2019-01-01,Brasil,América Central,Curaçao,33951,62067
-477,2019-01-01,Brasil,Europa,Dinamarca,240,306
-478,2019-01-01,Brasil,Ásia,Emirados Arabes Unidos,450,2202
-479,2019-01-01,Brasil,América do Sul,Equador,2,3
-480,2019-01-01,Brasil,Europa,Espanha,3540,1353
-481,2019-01-01,Brasil,América do Norte,Estados Unidos,209765,616274
-482,2019-01-01,Brasil,Ásia,Filipinas,736,2486
-483,2019-01-01,Brasil,Europa,França,18286,67072
-484,2019-01-01,Brasil,África,Gana,7673,10010
-485,2019-01-01,Brasil,Europa,Gibraltar,23,93
-486,2019-01-01,Brasil,Europa,Grécia,561,1994
-487,2019-01-01,Brasil,América Central,Guatemala,1597,8719
-488,2019-01-01,Brasil,América do Sul,Guiana,424,1311
-489,2019-01-01,Brasil,América do Norte,Haiti,81873,129803
-490,2019-01-01,Brasil,Ásia,Hong Kong,9651,42020
-491,2019-01-01,Brasil,Europa,Ilha de Man,28,175
-492,2019-01-01,Brasil,Ásia,India,51,273
-493,2019-01-01,Brasil,Europa,Itália,587,1625
-494,2019-01-01,Brasil,Ásia,Japão,40621,99642
-495,2019-01-01,Brasil,África,Libéria,4441,20068
-496,2019-01-01,Brasil,Europa,Luxemburgo,1666,11211
-497,2019-01-01,Brasil,Europa,Malta,3661,8828
-498,2019-01-01,Brasil,Ásia,Malásia,48,110
-499,2019-01-01,Brasil,Oceania,"Marshall, Ilhas",7276,15786
-500,2019-01-01,Brasil,Europa,Montenegro,9,46
-501,2019-01-01,Brasil,América do Norte,México,4,4
-502,2019-01-01,Brasil,África,Nigéria,28437,38555
-503,2019-01-01,Brasil,Europa,Noruega,628,3139
-504,2019-01-01,Brasil,Oceania,Nova Zelândia,500,2832
-505,2019-01-01,Brasil,América Central,Panamá,7918,29017
-506,2019-01-01,Brasil,América do Sul,Paraguai,2419537,3826587
-507,2019-01-01,Brasil,Europa,Países Baixos,44882,148031
-508,2019-01-01,Brasil,América do Sul,Peru,9755,17310
-509,2019-01-01,Brasil,Europa,Polônia,5,11
-510,2019-01-01,Brasil,Europa,Portugal,18328,72413
-511,2019-01-01,Brasil,Europa,Reino Unido,34295,164592
-512,2019-01-01,Brasil,África,Serra Leoa,18,717
-513,2019-01-01,Brasil,América do Sul,Suriname,3206,4741
-514,2019-01-01,Brasil,Europa,Suécia,28,761
-515,2019-01-01,Brasil,Europa,Suíça,2223,28503
-516,2019-01-01,Brasil,Ásia,Tailândia,128,832
-517,2019-01-01,Brasil,Ásia,Taiwan (FORMOSA),12,67
-518,2019-01-01,Brasil,Europa,"Tcheca, República",2115,16391
-519,2019-01-01,Brasil,Ásia,Turquia,115,209
-520,2019-01-01,Brasil,América do Sul,Uruguai,6180,18497
-521,2019-01-01,Brasil,Ásia,Vietnã,20,32
-522,2019-01-01,Brasil,África,África do Sul,26,95
-523,2020-01-01,Brasil,Europa,"Alemanha, República Democrática",6261,32605
-524,2020-01-01,Brasil,América Central,Antígua e Barbuda,624,1864
-525,2020-01-01,Brasil,América do Sul,Argentina,1015,4176
-526,2020-01-01,Brasil,Oceania,Austrália,1013,3413
-527,2020-01-01,Brasil,América do Norte,Bahamas,1212,3703
-528,2020-01-01,Brasil,Ásia,Bangladesh,3,29
-529,2020-01-01,Brasil,América Central,Barbados,143,169
-530,2020-01-01,Brasil,Ásia,Barein,8,28
-531,2020-01-01,Brasil,América do Sul,Bolívia,9900,16025
-532,2020-01-01,Brasil,Europa,Bélgica,3166,20460
-533,2020-01-01,Brasil,Europa,Bósnia-Herzegovina,45,52
-534,2020-01-01,Brasil,América do Norte,Canadá,1672,8431
-535,2020-01-01,Brasil,América do Norte,"Cayman, Ilhas",123,339
-536,2020-01-01,Brasil,América do Sul,Chile,11,13
-537,2020-01-01,Brasil,Ásia,China,122253,363000
-538,2020-01-01,Brasil,Europa,Chipre,2478,6785
-539,2020-01-01,Brasil,Ásia,Cingapura,4049,9316
-540,2020-01-01,Brasil,América do Sul,Colômbia,15660,23780
-541,2020-01-01,Brasil,África,Comores,9,25
-542,2020-01-01,Brasil,Ásia,"Coreia, Republica Sul",103,433
-543,2020-01-01,Brasil,Europa,Croácia,21,123
-544,2020-01-01,Brasil,América Central,Curaçao,47962,65986
-545,2020-01-01,Brasil,Europa,Dinamarca,659,1962
-546,2020-01-01,Brasil,Ásia,Emirados Arabes Unidos,581,2279
-547,2020-01-01,Brasil,América do Sul,Equador,3780,3824
-548,2020-01-01,Brasil,Europa,Espanha,28,126
-549,2020-01-01,Brasil,América do Norte,Estados Unidos,300178,610793
-550,2020-01-01,Brasil,Ásia,Filipinas,719,1548
-551,2020-01-01,Brasil,Europa,França,12622,57144
-552,2020-01-01,Brasil,África,Gana,18810,22027
-553,2020-01-01,Brasil,Europa,Gibraltar,769,2860
-554,2020-01-01,Brasil,Europa,Grécia,6859,18092
-555,2020-01-01,Brasil,América do Sul,Guiana,990,2577
-556,2020-01-01,Brasil,América do Norte,Haiti,399128,471152
-557,2020-01-01,Brasil,Ásia,Hong Kong,15159,41987
-558,2020-01-01,Brasil,Europa,Ilha de Man,11,121
-559,2020-01-01,Brasil,Ásia,India,7,10
-560,2020-01-01,Brasil,Ásia,Indonésia,5,6
-561,2020-01-01,Brasil,Europa,Irlanda,29,257
-562,2020-01-01,Brasil,Ásia,Irã,21,35
-563,2020-01-01,Brasil,Europa,Itália,91,376
-564,2020-01-01,Brasil,Ásia,Japão,36442,92674
-565,2020-01-01,Brasil,Ásia,Jordânia,12,52
-566,2020-01-01,Brasil,África,Libéria,5155,17624
-567,2020-01-01,Brasil,Europa,Luxemburgo,1086,5110
-568,2020-01-01,Brasil,Europa,Malta,3490,9688
-569,2020-01-01,Brasil,Oceania,"Marshall, Ilhas",6270,19639
-570,2020-01-01,Brasil,Europa,Montenegro,9,20
-571,2020-01-01,Brasil,América do Norte,México,24,226
-572,2020-01-01,Brasil,África,Nigéria,12094,26514
-573,2020-01-01,Brasil,Europa,Noruega,1859,15134
-574,2020-01-01,Brasil,Oceania,Nova Zelândia,95,515
-575,2020-01-01,Brasil,América Central,Panamá,10821,28372
-576,2020-01-01,Brasil,América do Sul,Paraguai,3299013,3869243
-577,2020-01-01,Brasil,Europa,Países Baixos,248,1532
-578,2020-01-01,Brasil,Europa,Polônia,74,86
-579,2020-01-01,Brasil,Europa,Portugal,7958,34518
-580,2020-01-01,Brasil,Europa,Reino Unido,22913,82722
-581,2020-01-01,Brasil,Europa,Rússia,1463,8550
-582,2020-01-01,Brasil,África,Serra Leoa,9240,13050
-583,2020-01-01,Brasil,América do Sul,Suriname,4185,5277
-584,2020-01-01,Brasil,Europa,Suécia,6,24
-585,2020-01-01,Brasil,Europa,Suíça,2827,27930
-586,2020-01-01,Brasil,Ásia,Tailândia,534,1753
-587,2020-01-01,Brasil,Ásia,Taiwan (FORMOSA),963,4673
-588,2020-01-01,Brasil,Europa,"Tcheca, República",563,4805
-589,2020-01-01,Brasil,Oceania,Tuvalu,2,4
-590,2020-01-01,Brasil,Oceania,Vanuatu,18,31
-591,2020-01-01,Brasil,América do Sul,Venezuela,4086,9808
-592,2020-01-01,Brasil,Ásia,Vietnã,86,584
-593,2020-01-01,Brasil,África,África do Sul,4,21
-594,2021-01-01,Brasil,Ásia,Afeganistão,11,46
-595,2021-01-01,Brasil,Europa,"Alemanha, República Democrática",2698,6741
-596,2021-01-01,Brasil,América Central,Antígua e Barbuda,805,2268
-597,2021-01-01,Brasil,América do Sul,Argentina,6,13
-598,2021-01-01,Brasil,Oceania,Austrália,705,4034
-599,2021-01-01,Brasil,América do Norte,Bahamas,1083,4567
-600,2021-01-01,Brasil,Ásia,Bangladesh,2,20
-601,2021-01-01,Brasil,América Central,Barbados,216,844
-602,2021-01-01,Brasil,Ásia,Barein,302,894
-603,2021-01-01,Brasil,América do Sul,Bolívia,5850,8360
-604,2021-01-01,Brasil,América do Sul,Brasil,31,46
-605,2021-01-01,Brasil,Europa,Bélgica,483,3749
-606,2021-01-01,Brasil,África,Cabo Verde,16,124
-607,2021-01-01,Brasil,América do Norte,Canadá,1172,6157
-608,2021-01-01,Brasil,Ásia,Catar,1,2
-609,2021-01-01,Brasil,América do Norte,"Cayman, Ilhas",104,356
-610,2021-01-01,Brasil,América do Sul,Chile,26,6
-611,2021-01-01,Brasil,Ásia,China,61884,264116
-612,2021-01-01,Brasil,Europa,Chipre,1855,4530
-613,2021-01-01,Brasil,América do Sul,Colômbia,12160,21867
-614,2021-01-01,Brasil,Ásia,"Coreia, Republica Sul",67,100
-615,2021-01-01,Brasil,América Central,Curaçao,32263,58993
-616,2021-01-01,Brasil,Europa,Dinamarca,87,504
-617,2021-01-01,Brasil,América Central,Dominica,460,634
-618,2021-01-01,Brasil,Ásia,Emirados Arabes Unidos,810,10522
-619,2021-01-01,Brasil,América do Norte,Estados Unidos,111085,203554
-620,2021-01-01,Brasil,Ásia,Filipinas,2784,10368
-621,2021-01-01,Brasil,Europa,França,7052,23742
-622,2021-01-01,Brasil,África,Gana,12578,19196
-623,2021-01-01,Brasil,Europa,Grécia,908,3014
-624,2021-01-01,Brasil,América Central,Guatemala,17347,29100
-625,2021-01-01,Brasil,América do Sul,Guiana,2372,6525
-626,2021-01-01,Brasil,América do Sul,Guiana Francesa,90,32
-627,2021-01-01,Brasil,América do Norte,Haiti,670379,831181
-628,2021-01-01,Brasil,Ásia,Hong Kong,12507,39390
-629,2021-01-01,Brasil,Europa,Hungria,87,583
-630,2021-01-01,Brasil,Europa,Ilha de Man,97,445
-631,2021-01-01,Brasil,Ásia,India,13,86
-632,2021-01-01,Brasil,Europa,Irlanda,36,208
-633,2021-01-01,Brasil,Ásia,Irã,116,287
-634,2021-01-01,Brasil,Europa,Itália,696,3715
-635,2021-01-01,Brasil,Ásia,Japão,39491,90275
-636,2021-01-01,Brasil,África,Libéria,7554,23060
-637,2021-01-01,Brasil,Europa,Malta,3441,15454
-638,2021-01-01,Brasil,Oceania,"Marshall, Ilhas",8644,22561
-639,2021-01-01,Brasil,África,Mauritânia,9,85
-640,2021-01-01,Brasil,Europa,Montenegro,14,65
-641,2021-01-01,Brasil,América do Norte,México,9,2
-642,2021-01-01,Brasil,África,Nigéria,68247,113172
-643,2021-01-01,Brasil,Europa,Noruega,1878,8320
-644,2021-01-01,Brasil,Oceania,Nova Caledônia,7227,11924
-645,2021-01-01,Brasil,Oceania,Nova Zelândia,657,10477
-646,2021-01-01,Brasil,América Central,Panamá,29520,48444
-647,2021-01-01,Brasil,América do Sul,Paraguai,6522527,7192362
-648,2021-01-01,Brasil,Europa,Países Baixos,3791,8484
-649,2021-01-01,Brasil,América do Sul,Peru,9720,17107
-650,2021-01-01,Brasil,Europa,Polônia,4,14
-651,2021-01-01,Brasil,Europa,Portugal,6358,42633
-652,2021-01-01,Brasil,Europa,Reino Unido,25316,122394
-653,2021-01-01,Brasil,Europa,Rússia,181931,312926
-654,2021-01-01,Brasil,África,Serra Leoa,6525,12955
-655,2021-01-01,Brasil,Ásia,Singapura,4504,14346
-656,2021-01-01,Brasil,África,Suazilândia,10,24
-657,2021-01-01,Brasil,América do Sul,Suriname,900,1472
-658,2021-01-01,Brasil,Europa,Suécia,23,74
-659,2021-01-01,Brasil,Europa,Suíça,627,6999
-660,2021-01-01,Brasil,América Central,São Vicente e Granadinas,8,48
-661,2021-01-01,Brasil,Ásia,Tailândia,1334,2529
-662,2021-01-01,Brasil,Ásia,Taiwan (FORMOSA),1313,8153
-663,2021-01-01,Brasil,Europa,"Tcheca, República",456,5988
-664,2021-01-01,Brasil,África,Togo,1890,2012
-665,2021-01-01,Brasil,Ásia,Turquia,343,878
-666,2021-01-01,Brasil,América do Sul,Uruguai,136774,149842
-667,2021-01-01,Brasil,América do Sul,Venezuela,26415,35944
-668,2022-01-01,Brasil,Europa,"Alemanha, República Democrática",7630,45367
-669,2022-01-01,Brasil,África,Angola,4068,4761
-670,2022-01-01,Brasil,América Central,Antígua e Barbuda,419,1866
-671,2022-01-01,Brasil,América do Sul,Argentina,480,3232
-672,2022-01-01,Brasil,Oceania,Austrália,1424,12299
-673,2022-01-01,Brasil,América do Norte,Bahamas,1215,5799
-674,2022-01-01,Brasil,Ásia,Bangladesh,7,84
-675,2022-01-01,Brasil,América Central,Barbados,220,1145
-676,2022-01-01,Brasil,Ásia,Barein,979,2789
-677,2022-01-01,Brasil,América do Sul,Bolívia,32530,49011
-678,2022-01-01,Brasil,América do Sul,Brasil,2504,952
-679,2022-01-01,Brasil,Europa,Bulgária,5,31
-680,2022-01-01,Brasil,Europa,Bélgica,828,6145
-681,2022-01-01,Brasil,América do Norte,Canadá,1183,5784
-682,2022-01-01,Brasil,América do Norte,"Cayman, Ilhas",160,958
-683,2022-01-01,Brasil,América do Sul,Chile,2094,7986
-684,2022-01-01,Brasil,Ásia,China,105395,404647
-685,2022-01-01,Brasil,Europa,Chipre,1521,4458
-686,2022-01-01,Brasil,Oceania,"Cocos (Keeling), Ilhas",26,60
-687,2022-01-01,Brasil,América do Sul,Colômbia,8217,14068
-688,2022-01-01,Brasil,Ásia,"Coreia, Republica Sul",77,257
-689,2022-01-01,Brasil,Europa,Croácia,34,484
-690,2022-01-01,Brasil,América do Norte,Cuba,16,6
-691,2022-01-01,Brasil,América Central,Curaçao,40673,66950
-692,2022-01-01,Brasil,Europa,Dinamarca,2,6
-693,2022-01-01,Brasil,América Central,Dominica,1485,2223
-694,2022-01-01,Brasil,Ásia,Emirados Arabes Unidos,4781,85465
-695,2022-01-01,Brasil,América do Sul,Equador,135,210
-696,2022-01-01,Brasil,América do Norte,Estados Unidos,220373,447893
-697,2022-01-01,Brasil,Ásia,Filipinas,375,790
-698,2022-01-01,Brasil,Europa,França,5694,25008
-699,2022-01-01,Brasil,África,Gana,35949,49304
-700,2022-01-01,Brasil,América Central,Granada,5610,7914
-701,2022-01-01,Brasil,Europa,Grécia,920,2426
-702,2022-01-01,Brasil,América Central,Guatemala,1283,5350
-703,2022-01-01,Brasil,América do Sul,Guiana,2064,5823
-704,2022-01-01,Brasil,América do Sul,Guiana Francesa,22,18
-705,2022-01-01,Brasil,América do Norte,Haiti,553503,741014
-706,2022-01-01,Brasil,Ásia,Hong Kong,9371,38218
-707,2022-01-01,Brasil,Europa,Ilha de Man,165,641
-708,2022-01-01,Brasil,Ásia,India,247,1021
-709,2022-01-01,Brasil,Ásia,Irã,47,90
-710,2022-01-01,Brasil,Europa,Itália,1129,6151
-711,2022-01-01,Brasil,Ásia,Japão,37324,82208
-712,2022-01-01,Brasil,África,Libéria,9145,34815
-713,2022-01-01,Brasil,Europa,Luxemburgo,36,802
-714,2022-01-01,Brasil,Europa,Malta,3127,15587
-715,2022-01-01,Brasil,Oceania,"Marshall, Ilhas",7240,27178
-716,2022-01-01,Brasil,África,Moçambique,383,1927
-717,2022-01-01,Brasil,América do Norte,México,6,33
-718,2022-01-01,Brasil,África,Nigéria,32234,50283
-719,2022-01-01,Brasil,Europa,Noruega,2711,40316
-720,2022-01-01,Brasil,Oceania,Nova Zelândia,63,156
-721,2022-01-01,Brasil,Ásia,Omã,194,670
-722,2022-01-01,Brasil,América Central,Panamá,11490,49392
-723,2022-01-01,Brasil,América do Sul,Paraguai,5076670,7156293
-724,2022-01-01,Brasil,Europa,Países Baixos,7034,37240
-725,2022-01-01,Brasil,Europa,Portugal,1918,7613
-726,2022-01-01,Brasil,África,Quênia,1440,2080
-727,2022-01-01,Brasil,Europa,Reino Unido,18835,138154
-728,2022-01-01,Brasil,Europa,Rússia,66046,118618
-729,2022-01-01,Brasil,África,Serra Leoa,8101,15182
-730,2022-01-01,Brasil,Ásia,Singapura,4322,15434
-731,2022-01-01,Brasil,América do Sul,Suriname,1225,3360
-732,2022-01-01,Brasil,Europa,Suécia,5,18
-733,2022-01-01,Brasil,Europa,Suíça,1584,20863
-734,2022-01-01,Brasil,América Central,São Vicente e Granadinas,20,51
-735,2022-01-01,Brasil,Ásia,Tailândia,432,1713
-736,2022-01-01,Brasil,Ásia,Taiwan (FORMOSA),25,277
-737,2022-01-01,Brasil,Europa,"Tcheca, República",1305,9997
-738,2022-01-01,Brasil,África,Togo,17317,25608
-739,2022-01-01,Brasil,Ásia,Turquia,418,503
-740,2022-01-01,Brasil,América do Sul,Uruguai,637117,997367
-741,2022-01-01,Brasil,América do Sul,Venezuela,23220,32351
-742,2022-01-01,Brasil,Ásia,Vietnã,130,277
-743,2022-01-01,Brasil,Europa,Áustria,6,212
+,data,pais_origem,continente_destino,pais_destino,litro,valor_usd,valor_real,real_projecao
+0,2007-01-01,Brasil,Europa,"Alemanha, República Democrática",119512,238052,463798.5207952,real
+1,2007-01-01,Brasil,África,Angola,25931,49753,96934.1480228,real
+2,2007-01-01,Brasil,América Central,Antilhas Holandesas,17025,17949,34970.1731124,real
+3,2007-01-01,Brasil,Oceania,Austrália,60,281,547.4744356,real
+4,2007-01-01,Brasil,América do Sul,Bolívia,4985,3550,6916.491980000001,real
+5,2007-01-01,Brasil,Europa,Bélgica,1077,3751,7308.101807600001,real
+6,2007-01-01,Brasil,América do Norte,Canadá,4172,18838,36702.2185688,real
+7,2007-01-01,Brasil,América do Sul,Chile,60930,67353,131224.3617828,real
+8,2007-01-01,Brasil,Ásia,China,7638,30390,59209.067964,real
+9,2007-01-01,Brasil,Ásia,Cingapura,7270,17864,34804.5669664,real
+10,2007-01-01,Brasil,Ásia,"Coreia, Republica Sul",1012,4650,9059.630340000002,real
+11,2007-01-01,Brasil,América do Norte,Cuba,2669,5118,9971.4382968,real
+12,2007-01-01,Brasil,Europa,Dinamarca,3480,11176,21774.285737600003,real
+13,2007-01-01,Brasil,América do Sul,Equador,2700,3585,6984.682746,real
+14,2007-01-01,Brasil,América do Norte,Estados Unidos,479269,810038,1578203.1916888,real
+15,2007-01-01,Brasil,Europa,Estônia,77697,54056,105317.7156256,real
+16,2007-01-01,Brasil,Europa,França,6349,11231,21881.4426556,real
+17,2007-01-01,Brasil,Europa,Itália,7209,19860,38693.388936,real
+18,2007-01-01,Brasil,Ásia,Japão,357943,316867,617354.3842892001,real
+19,2007-01-01,Brasil,Europa,Luxemburgo,785,2033,3960.9093508,real
+20,2007-01-01,Brasil,América do Norte,México,2453,15425,30052.644730000004,real
+21,2007-01-01,Brasil,Europa,Noruega,10044,10044,19568.8015344,real
+22,2007-01-01,Brasil,América Central,Panamá,810,1030,2006.756828,real
+23,2007-01-01,Brasil,América do Sul,Paraguai,1285459,801519,1561605.5592444001,real
+24,2007-01-01,Brasil,Europa,Países Baixos,181046,364751,710647.1454076001,real
+25,2007-01-01,Brasil,Europa,Portugal,109074,165282,322020.17674320005,real
+26,2007-01-01,Brasil,África,Quênia,10600,13860,27003.543336000002,real
+27,2007-01-01,Brasil,Europa,Reino Unido,84613,144244,281031.6814544,real
+28,2007-01-01,Brasil,América do Norte,República Dominicana,601,2438,4749.9739288,real
+29,2007-01-01,Brasil,Europa,Rússia,266400,173160,337368.944016,real
+30,2007-01-01,Brasil,América do Sul,Suriname,2700,4603,8968.0598828,real
+31,2007-01-01,Brasil,Europa,Suécia,919,2448,4769.4570048000005,real
+32,2007-01-01,Brasil,Europa,Suíça,26090,70716,137776.5202416,real
+33,2007-01-01,Brasil,Ásia,Tailândia,839,2020,3935.581352,real
+34,2007-01-01,Brasil,Ásia,Taiwan (FORMOSA),6377,11214,21848.3214264,real
+35,2007-01-01,Brasil,Europa,"Tcheca, República",85303,189620,369438.08711200004,real
+36,2007-01-01,Brasil,África,Togo,11,11,21.4313836,real
+37,2007-01-01,Brasil,América do Sul,Venezuela,20700,27370,53325.179012,real
+38,2008-01-01,Brasil,Europa,"Alemanha, República Democrática",265742,429970,790055.8247992126,real
+39,2008-01-01,Brasil,África,Angola,25721,71083,130612.68970905512,real
+40,2008-01-01,Brasil,América Central,Antilhas Holandesas,17938,22908,42092.70143149606,real
+41,2008-01-01,Brasil,Oceania,Austrália,218726,99280,182423.7558110236,real
+42,2008-01-01,Brasil,África,Benin,10350,17423,32014.19316574803,real
+43,2008-01-01,Brasil,América do Sul,Bolívia,3979,3990,7331.494618110236,real
+44,2008-01-01,Brasil,Europa,Bélgica,3523,12969,23830.11370984252,real
+45,2008-01-01,Brasil,América do Norte,Canadá,20949,80476,147872.02027244095,real
+46,2008-01-01,Brasil,Ásia,China,8689,25926,47638.17781181102,real
+47,2008-01-01,Brasil,Ásia,Cingapura,1233,4699,8634.25895,real
+48,2008-01-01,Brasil,Ásia,"Coreia, Republica Sul",3520,14366,26397.05555984252,real
+49,2008-01-01,Brasil,América Central,Costa Rica,55,200,367.4934645669291,real
+50,2008-01-01,Brasil,Europa,Dinamarca,518,15905,29224.91776968504,real
+51,2008-01-01,Brasil,Ásia,Emirados Arabes Unidos,2437,12298,22597.173136220474,real
+52,2008-01-01,Brasil,Europa,"Eslovaca, Republica",585,16063,29515.237606692914,real
+53,2008-01-01,Brasil,Europa,Espanha,2942,6834,12557.251684251969,real
+54,2008-01-01,Brasil,América do Norte,Estados Unidos,443895,804607,1478439.0702240157,real
+55,2008-01-01,Brasil,Europa,Estônia,4114,9730,17878.557051181102,real
+56,2008-01-01,Brasil,Europa,França,11078,27500,50530.35137795276,real
+57,2008-01-01,Brasil,África,Gana,18168,25642,47116.337092125985,real
+58,2008-01-01,Brasil,África,Guine Equatorial,548,1417,2603.691196456693,real
+59,2008-01-01,Brasil,América do Norte,Haiti,20,20,36.74934645669291,real
+60,2008-01-01,Brasil,América Central,Honduras,162,580,1065.7310472440945,real
+61,2008-01-01,Brasil,Ásia,Hong Kong,2430,13460,24732.31016535433,real
+62,2008-01-01,Brasil,Ásia,Japão,232293,178333,327681.0600830709,real
+63,2008-01-01,Brasil,Europa,Luxemburgo,13606,42341,77800.20391614173,real
+64,2008-01-01,Brasil,África,Namibia,340,722,1326.6514070866142,real
+65,2008-01-01,Brasil,África,Nigéria,7560,10920,20065.14316535433,real
+66,2008-01-01,Brasil,América Central,Panamá,1161,1882,3458.113501574803,real
+67,2008-01-01,Brasil,América do Sul,Paraguai,2191901,1374088,2524841.7986992127,real
+68,2008-01-01,Brasil,Europa,Países Baixos,340412,783635,1439903.7055295275,real
+69,2008-01-01,Brasil,Europa,Polônia,20290,58353,107221.73068937007,real
+70,2008-01-01,Brasil,Europa,Portugal,49090,48942,89929.32571417323,real
+71,2008-01-01,Brasil,Europa,Reino Unido,100097,155076,284947.0825559055,real
+72,2008-01-01,Brasil,Europa,Rússia,6207658,2352768,4323134.318211024,real
+73,2008-01-01,Brasil,América do Sul,Suriname,900,1625,2985.884399606299,real
+74,2008-01-01,Brasil,Europa,Suécia,26984,84564,155383.58668818898,real
+75,2008-01-01,Brasil,Europa,Suíça,54384,216317,397475.418873622,real
+76,2008-01-01,Brasil,Ásia,Taiwan (FORMOSA),10030,18679,34322.05212322834,real
+77,2008-01-01,Brasil,Europa,"Tcheca, República",17135,64709,118900.67299330709,real
+78,2008-01-01,Brasil,África,Togo,5160,7800,14332.245118110235,real
+79,2009-01-01,Brasil,Europa,"Alemanha, República Democrática",225086,393482,784425.7263144,real
+80,2009-01-01,Brasil,África,Angola,54786,84235,167926.616862,real
+81,2009-01-01,Brasil,América Central,Antilhas Holandesas,8235,10651,21233.2925292,real
+82,2009-01-01,Brasil,América do Sul,Argentina,162,4523,9016.823031599999,real
+83,2009-01-01,Brasil,Oceania,Austrália,1014,9195,18330.684893999998,real
+84,2009-01-01,Brasil,América do Sul,Bolívia,40463,20729,41324.2813668,real
+85,2009-01-01,Brasil,Europa,Bélgica,125962,58764,117148.9251888,real
+86,2009-01-01,Brasil,América do Norte,Canadá,15664,73445,146416.220994,real
+87,2009-01-01,Brasil,América do Sul,Chile,1475,4297,8566.2809124,real
+88,2009-01-01,Brasil,Ásia,China,1553416,482400,961688.13408,real
+89,2009-01-01,Brasil,Ásia,Cingapura,2419,6110,12180.585611999999,real
+90,2009-01-01,Brasil,Europa,Dinamarca,1980,21780,43419.501575999995,real
+91,2009-01-01,Brasil,América Central,El Salvador,55,100,199.35492,real
+92,2009-01-01,Brasil,Ásia,Emirados Arabes Unidos,1398,4032,8037.990374399999,real
+93,2009-01-01,Brasil,Europa,Espanha,2181,4050,8073.87426,real
+94,2009-01-01,Brasil,América do Norte,Estados Unidos,372319,660066,1315874.0462471999,real
+95,2009-01-01,Brasil,Europa,Estônia,5438,10802,21534.318458399997,real
+96,2009-01-01,Brasil,América Central,Guatemala,20,20,39.870984,real
+97,2009-01-01,Brasil,África,Guine Equatorial,169,272,542.2453823999999,real
+98,2009-01-01,Brasil,América do Norte,Haiti,4500,5863,11688.1789596,real
+99,2009-01-01,Brasil,América Central,Honduras,14,30,59.806475999999996,real
+100,2009-01-01,Brasil,Ásia,Hong Kong,50319,27188,54200.6156496,real
+101,2009-01-01,Brasil,Europa,Itália,1817,5251,10468.1268492,real
+102,2009-01-01,Brasil,Ásia,Japão,217974,283436,565043.6110512,real
+103,2009-01-01,Brasil,Europa,Luxemburgo,7845,42124,83976.26650079999,real
+104,2009-01-01,Brasil,América Central,Nicaragua,24,24,47.845180799999994,real
+105,2009-01-01,Brasil,África,Nigéria,41,115,229.25815799999998,real
+106,2009-01-01,Brasil,América Central,Panamá,24,30,59.806475999999996,real
+107,2009-01-01,Brasil,América do Sul,Paraguai,486927,392087,781644.7251804,real
+108,2009-01-01,Brasil,Europa,Países Baixos,171654,136991,273098.2984572,real
+109,2009-01-01,Brasil,Europa,Polônia,6982,35797,71363.0807124,real
+110,2009-01-01,Brasil,Europa,Portugal,141000,168923,336756.3115116,real
+111,2009-01-01,Brasil,Europa,Reino Unido,30092,68788,137132.2623696,real
+112,2009-01-01,Brasil,Europa,Rússia,21912914,5732280,11427582.208176,real
+113,2009-01-01,Brasil,América do Sul,Suriname,3830,12918,25752.668565599997,real
+114,2009-01-01,Brasil,Europa,Suécia,28334,52826,105311.23003919999,real
+115,2009-01-01,Brasil,Europa,Suíça,27653,81319,162113.4273948,real
+116,2009-01-01,Brasil,Europa,"Tcheca, República",9269,43902,87520.7969784,real
+117,2009-01-01,Brasil,Ásia,Vietnã,743,2143,4272.1759356,real
+118,2010-01-01,Brasil,Europa,"Alemanha, República Democrática",27715,138666,243956.08821752988,real
+119,2010-01-01,Brasil,África,Angola,33557,189891,334076.59806812747,real
+120,2010-01-01,Brasil,América Central,Antilhas Holandesas,9810,12808,22533.206250199204,real
+121,2010-01-01,Brasil,Oceania,Austrália,1823,17960,31597.15679681275,real
+122,2010-01-01,Brasil,América do Norte,Bahamas,3175,12759,22447.00019880478,real
+123,2010-01-01,Brasil,América do Sul,Bolívia,54,282,496.124622310757,real
+124,2010-01-01,Brasil,Europa,Bélgica,42532,185411,326194.90194063744,real
+125,2010-01-01,Brasil,África,Cabo Verde,11991,49366,86849.9578191235,real
+126,2010-01-01,Brasil,Ásia,China,795,2358,4148.446309960159,real
+127,2010-01-01,Brasil,Ásia,Cingapura,1533,5504,9683.226670916334,real
+128,2010-01-01,Brasil,Europa,Dinamarca,7034,69161,121675.4432752988,real
+129,2010-01-01,Brasil,Ásia,Emirados Arabes Unidos,1035,3206,5640.33879123506,real
+130,2010-01-01,Brasil,América do Norte,Estados Unidos,228968,478630,842057.1914063744,real
+131,2010-01-01,Brasil,Europa,Estônia,15848,40778,71741.0278318725,real
+132,2010-01-01,Brasil,Europa,França,3614,18904,33257.942766533866,real
+133,2010-01-01,Brasil,América do Sul,Guiana,783,3654,6428.508403984064,real
+134,2010-01-01,Brasil,África,Guine Equatorial,410,1015,1785.6967788844622,real
+135,2010-01-01,Brasil,América do Norte,Haiti,2700,3750,6597.401892430279,real
+136,2010-01-01,Brasil,Europa,Hungria,540,4103,7218.4373239043825,real
+137,2010-01-01,Brasil,Europa,Irlanda,3969,42795,75289.55039641434,real
+138,2010-01-01,Brasil,Europa,Itália,1458,4828,8493.93502310757,real
+139,2010-01-01,Brasil,Ásia,Japão,112178,74628,131293.5755808765,real
+140,2010-01-01,Brasil,Europa,Luxemburgo,7344,32549,57263.689119123504,real
+141,2010-01-01,Brasil,América do Sul,Paraguai,510989,449197,790275.5034330677,real
+142,2010-01-01,Brasil,Europa,Países Baixos,87368,302182,531630.9596422311,real
+143,2010-01-01,Brasil,Europa,Polônia,20464,95198,167482.52409482072,real
+144,2010-01-01,Brasil,Europa,Portugal,4577,18970,33374.057039840634,real
+145,2010-01-01,Brasil,Europa,Reino Unido,123624,295690,520209.53748605575,real
+146,2010-01-01,Brasil,América do Sul,Suriname,1836,1269,2232.560800398406,real
+147,2010-01-01,Brasil,Europa,Suíça,2025,21600,38001.03490039841,real
+148,2010-01-01,Brasil,Europa,"Tcheca, República",1091,5285,9297.938400398407,real
+149,2010-01-01,Brasil,América do Sul,Uruguai,914,2929,5153.010704780876,real
+150,2010-01-01,Brasil,Ásia,Vietnã,8820,9977,17552.60764820717,real
+151,2011-01-01,Brasil,Europa,"Alemanha, República Democrática",36070,144150,241398.52900398406,real
+152,2011-01-01,Brasil,África,Angola,13889,69001,115551.43877768924,real
+153,2011-01-01,Brasil,América Central,Antilhas Holandesas,7335,10188,17061.173870916333,real
+154,2011-01-01,Brasil,América do Sul,Argentina,13253,55460,92875.21622310756,real
+155,2011-01-01,Brasil,América Central,Aruba,900,1680,2813.385561752988,real
+156,2011-01-01,Brasil,Oceania,Austrália,3632,40704,68164.31303904383,real
+157,2011-01-01,Brasil,América do Norte,Bahamas,4529,28810,48246.21311553785,real
+158,2011-01-01,Brasil,América do Sul,Bolívia,12775,20215,33852.73162549801,real
+159,2011-01-01,Brasil,Europa,Bélgica,11802,62339,104395.02531792829,real
+160,2011-01-01,Brasil,África,Cabo Verde,600,825,1381.5732669322708,real
+161,2011-01-01,Brasil,América do Norte,Canadá,28906,128076,214480.45786135457,real
+162,2011-01-01,Brasil,Ásia,China,54156,334867,560779.7517306773,real
+163,2011-01-01,Brasil,Ásia,Cingapura,911,3317,5554.761850199203,real
+164,2011-01-01,Brasil,África,Congo,360,570,954.541529880478,real
+165,2011-01-01,Brasil,América do Norte,Cuba,2880,4899,8204.033254183267,real
+166,2011-01-01,Brasil,Europa,Dinamarca,32797,83057,139090.09797768923,real
+167,2011-01-01,Brasil,Ásia,Emirados Arabes Unidos,2120,6594,11042.538329880477,real
+168,2011-01-01,Brasil,Europa,Espanha,5206,24618,41226.14628525896,real
+169,2011-01-01,Brasil,América do Norte,Estados Unidos,306787,1030254,1725298.6479394422,real
+170,2011-01-01,Brasil,Europa,Estônia,450,5336,8935.848427091634,real
+171,2011-01-01,Brasil,Europa,Finlândia,12404,50394,84391.51904701196,real
+172,2011-01-01,Brasil,África,Guine Equatorial,956,1979,3314.101206374502,real
+173,2011-01-01,Brasil,Ásia,Hong Kong,2063,7975,13355.208247011951,real
+174,2011-01-01,Brasil,Europa,Irlanda,5376,35690,59767.69684462151,real
+175,2011-01-01,Brasil,Europa,Itália,11999,80298,134469.78204621514,real
+176,2011-01-01,Brasil,Ásia,Japão,100835,144662,242255.94174661353,real
+177,2011-01-01,Brasil,Europa,Luxemburgo,9547,65592,109842.61057529881,real
+178,2011-01-01,Brasil,América do Norte,México,1350,7200,12057.366693227092,real
+179,2011-01-01,Brasil,África,Nigéria,54,210,351.6731952191235,real
+180,2011-01-01,Brasil,Europa,Noruega,10268,78688,131773.62088286853,real
+181,2011-01-01,Brasil,Oceania,Nova Zelândia,2587,7992,13383.67702948207,real
+182,2011-01-01,Brasil,América do Sul,Paraguai,240168,276281,462669.6288015936,real
+183,2011-01-01,Brasil,Europa,Países Baixos,125414,395356,662076.7036621514,real
+184,2011-01-01,Brasil,Europa,Polônia,11732,50684,84877.16298326693,real
+185,2011-01-01,Brasil,Europa,Portugal,95,1031,1726.5479250996016,real
+186,2011-01-01,Brasil,Europa,Reino Unido,122629,285642,478345.8801370518,real
+187,2011-01-01,Brasil,América do Sul,Suriname,3774,3735,6254.758972111554,real
+188,2011-01-01,Brasil,Europa,Suécia,1641,14476,24242.005590438246,real
+189,2011-01-01,Brasil,Ásia,Taiwan (FORMOSA),4500,10600,17751.123187250996,real
+190,2011-01-01,Brasil,Europa,"Tcheca, República",6846,37271,62415.29361434263,real
+191,2011-01-01,Brasil,América do Sul,Uruguai,1238,4404,7375.089294023905,real
+192,2012-01-01,Brasil,Europa,"Alemanha, República Democrática",8189,56342,110148.13861274901,real
+193,2012-01-01,Brasil,África,Angola,2833,8861,17323.180864143425,real
+194,2012-01-01,Brasil,América Central,Antilhas Holandesas,9247,14081,27528.237190836655,real
+195,2012-01-01,Brasil,Oceania,Austrália,9345,56045,109567.50609760956,real
+196,2012-01-01,Brasil,América do Norte,Bahamas,1374,12087,23629.98387370518,real
+197,2012-01-01,Brasil,América do Sul,Bolívia,11868,16804,32851.67940876494,real
+198,2012-01-01,Brasil,Europa,Bélgica,16132,90718,177352.93100478087,real
+199,2012-01-01,Brasil,América do Norte,Canadá,14304,146035,285497.2031932271,real
+200,2012-01-01,Brasil,América do Sul,Chile,8550,15438,30181.1608374502,real
+201,2012-01-01,Brasil,Ásia,China,87905,642177,1255450.6622043825,real
+202,2012-01-01,Brasil,Ásia,Cingapura,1212,5310,10381.005573705179,real
+203,2012-01-01,Brasil,Europa,Dinamarca,4716,23802,46532.710859760955,real
+204,2012-01-01,Brasil,Ásia,Emirados Arabes Unidos,675,3300,6451.472390438247,real
+205,2012-01-01,Brasil,América do Norte,Estados Unidos,146585,303986,594290.0866908367,real
+206,2012-01-01,Brasil,Europa,Estônia,3321,19384,37895.55782310757,real
+207,2012-01-01,Brasil,Europa,Finlândia,17100,67959,132859.2764187251,real
+208,2012-01-01,Brasil,Europa,França,195604,185791,363219.8505733068,real
+209,2012-01-01,Brasil,África,Guine Equatorial,819,2530,4946.128832669323,real
+210,2012-01-01,Brasil,Ásia,Hong Kong,1609,7653,14961.550970916334,real
+211,2012-01-01,Brasil,Europa,Itália,792,5622,10990.962963346614,real
+212,2012-01-01,Brasil,Ásia,Japão,29281,116961,228657.77644183268,real
+213,2012-01-01,Brasil,Europa,Luxemburgo,2444,16547,32349.246558964143,real
+214,2012-01-01,Brasil,África,Nigéria,6449,10196,19933.094694820717,real
+215,2012-01-01,Brasil,Europa,Noruega,5104,31515,61611.56132868526,real
+216,2012-01-01,Brasil,Oceania,Nova Zelândia,2364,8817,17237.161232270915,real
+217,2012-01-01,Brasil,América Central,Panamá,39,2262,4422.191074900398,real
+218,2012-01-01,Brasil,América do Sul,Paraguai,354824,428279,837281.8617892431,real
+219,2012-01-01,Brasil,Europa,Países Baixos,134879,539641,1054993.6400752987,real
+220,2012-01-01,Brasil,Europa,Polônia,21663,89158,174303.1440565737,real
+221,2012-01-01,Brasil,Europa,Portugal,47172,47022,91927.61658884463,real
+222,2012-01-01,Brasil,África,Quênia,94,458,895.38616812749,real
+223,2012-01-01,Brasil,Europa,Reino Unido,82937,334856,654640.6784159363,real
+224,2012-01-01,Brasil,Europa,Rússia,4528176,2103968,4113239.837080478,real
+225,2012-01-01,Brasil,América do Sul,Suriname,396,1288,2518.0292239043824,real
+226,2012-01-01,Brasil,Europa,Suécia,2705,17280,33782.25542629482,real
+227,2012-01-01,Brasil,Europa,Suíça,4014,47240,92353.80476494024,real
+228,2012-01-01,Brasil,Europa,"Tcheca, República",7960,27789,54327.26250239044,real
+229,2012-01-01,Brasil,América Central,Trinidade Tobago,531,2720,5317.5772430278885,real
+230,2012-01-01,Brasil,América do Sul,Uruguai,1135,3879,7583.41254621514,real
+231,2012-01-01,Brasil,América do Sul,Venezuela,1029,7492,14646.797317928287,real
+232,2013-01-01,Brasil,Europa,"Alemanha, República Democrática",61699,265978,574647.466463241,real
+233,2013-01-01,Brasil,África,Angola,1573,9300,20092.719841897233,real
+234,2013-01-01,Brasil,América Central,Antilhas Holandesas,11281,19565,42270.32943083004,real
+235,2013-01-01,Brasil,Oceania,Austrália,16707,101715,219756.02136758892,real
+236,2013-01-01,Brasil,América do Norte,Bahamas,581,5145,11115.811138339921,real
+237,2013-01-01,Brasil,América do Sul,Bolívia,19147,25998,56168.87424189723,real
+238,2013-01-01,Brasil,Europa,Bélgica,22461,95893,207177.54664505928,real
+239,2013-01-01,Brasil,América do Norte,Canadá,25329,174643,377317.5130482213,real
+240,2013-01-01,Brasil,Ásia,China,40929,279956,604847.0404363637,real
+241,2013-01-01,Brasil,Ásia,Cingapura,766,5779,12485.572899604742,real
+242,2013-01-01,Brasil,América do Sul,Colômbia,8,30,64.81522529644269,real
+243,2013-01-01,Brasil,Europa,Dinamarca,17892,101915,220188.1228695652,real
+244,2013-01-01,Brasil,Europa,Espanha,1972980,3748940,8099613.024094861,real
+245,2013-01-01,Brasil,América do Norte,Estados Unidos,245368,786556,1699360.1449422925,real
+246,2013-01-01,Brasil,Europa,Finlândia,36682,283114,611669.9231525691,real
+247,2013-01-01,Brasil,Europa,França,6885,42256,91294.4053375494,real
+248,2013-01-01,Brasil,África,Guine Equatorial,1108,5336,11528.468072727272,real
+249,2013-01-01,Brasil,Ásia,Hong Kong,16013,61224,132274.91178498024,real
+250,2013-01-01,Brasil,Europa,Itália,1710,11967,25854.793370750987,real
+251,2013-01-01,Brasil,Ásia,Japão,91988,429088,927047.8463999999,real
+252,2013-01-01,Brasil,Europa,Luxemburgo,5135,29474,63678.79834624506,real
+253,2013-01-01,Brasil,África,Nigéria,1350,2245,4850.339359683794,real
+254,2013-01-01,Brasil,Europa,Noruega,2375,19008,41066.92674782609,real
+255,2013-01-01,Brasil,Oceania,Nova Zelândia,1004,4092,8840.796730434782,real
+256,2013-01-01,Brasil,América do Sul,Paraguai,481564,680828,1470934.0069375494,real
+257,2013-01-01,Brasil,Europa,Países Baixos,57792,255690,552420.165201581,real
+258,2013-01-01,Brasil,Europa,Polônia,19249,90960,196519.76309881423,real
+259,2013-01-01,Brasil,Europa,Portugal,23810,17627,38083.26587667984,real
+260,2013-01-01,Brasil,África,Quênia,6,4,8.642030039525691,real
+261,2013-01-01,Brasil,Europa,Reino Unido,59161,305005,658965.5930513834,real
+262,2013-01-01,Brasil,Europa,Rússia,5893291,14795694,31966208.000907507,real
+263,2013-01-01,Brasil,América do Sul,Suriname,1800,2960,6395.1022292490115,real
+264,2013-01-01,Brasil,Europa,Suécia,3195,20183,43605.523071936754,real
+265,2013-01-01,Brasil,Europa,Suíça,2997,29785,64350.71618181818,real
+266,2013-01-01,Brasil,Europa,"Tcheca, República",3697,23549,50877.79135019763,real
+267,2013-01-01,Brasil,América do Sul,Uruguai,1526,13343,28827.651704347823,real
+268,2014-01-01,Brasil,Europa,"Alemanha, República Democrática",213348,761653,1793476.3610446642,real
+269,2014-01-01,Brasil,África,Angola,12182,23124,54450.44839683795,real
+270,2014-01-01,Brasil,América Central,Antilhas Holandesas,4455,7169,16880.95764387352,real
+271,2014-01-01,Brasil,América do Sul,Argentina,20385,95130,224004.11503162057,real
+272,2014-01-01,Brasil,América Central,Aruba,450,755,1777.8104367588935,real
+273,2014-01-01,Brasil,Oceania,Austrália,6308,43709,102922.27335138341,real
+274,2014-01-01,Brasil,América do Sul,Bolívia,12534,18303,43098.36347549407,real
+275,2014-01-01,Brasil,Europa,Bélgica,151320,704093,1657938.9190051386,real
+276,2014-01-01,Brasil,América do Norte,Canadá,35082,226875,534226.1494565218,real
+277,2014-01-01,Brasil,Ásia,China,64040,455340,1072196.2970513834,real
+278,2014-01-01,Brasil,Ásia,Cingapura,541,3887,9152.780354545455,real
+279,2014-01-01,Brasil,América do Norte,Cuba,38875,43200,101723.72300395257,real
+280,2014-01-01,Brasil,Europa,Dinamarca,3240,16871,39726.41043517787,real
+281,2014-01-01,Brasil,Ásia,Emirados Arabes Unidos,640,3381,7961.294154545455,real
+282,2014-01-01,Brasil,América do Norte,Estados Unidos,222267,494216,1163738.2288916998,real
+283,2014-01-01,Brasil,Europa,Finlândia,12960,94962,223608.5227754941,real
+284,2014-01-01,Brasil,Europa,França,33755,167807,395137.79597509885,real
+285,2014-01-01,Brasil,África,Guine Equatorial,5646,11983,28216.559554545456,real
+286,2014-01-01,Brasil,Ásia,Hong Kong,18130,63534,149604.5142901186,real
+287,2014-01-01,Brasil,Europa,Itália,604,2492,5867.951799209487,real
+288,2014-01-01,Brasil,Ásia,Japão,106426,401774,946063.5899581029,real
+289,2014-01-01,Brasil,Europa,Luxemburgo,8281,52400,123387.10845849804,real
+290,2014-01-01,Brasil,América do Norte,México,1521,24336,57304.363958893286,real
+291,2014-01-01,Brasil,Europa,Noruega,7179,50464,118828.37864980238,real
+292,2014-01-01,Brasil,Oceania,Nova Zelândia,2800,13675,32200.7387055336,real
+293,2014-01-01,Brasil,América do Sul,Paraguai,521847,908028,2138147.8877739133,real
+294,2014-01-01,Brasil,Europa,Países Baixos,165289,773767,1822001.3883703558,real
+295,2014-01-01,Brasil,Europa,Polônia,30181,107957,254208.05473003956,real
+296,2014-01-01,Brasil,Europa,Portugal,71544,79141,186354.56394110675,real
+297,2014-01-01,Brasil,Europa,Reino Unido,305807,1373747,3234783.7802201584,real
+298,2014-01-01,Brasil,Europa,Rússia,190656,61440,144673.73938339922,real
+299,2014-01-01,Brasil,América do Sul,Suriname,6,19,44.73960039525692,real
+300,2014-01-01,Brasil,Europa,Suécia,10404,51057,120224.72512529645,real
+301,2014-01-01,Brasil,Europa,Suíça,27933,231762,545733.645621344,real
+302,2014-01-01,Brasil,Ásia,Taiwan (FORMOSA),12519,67907,159901.68652845852,real
+303,2014-01-01,Brasil,Europa,"Tcheca, República",4500,35005,82426.82693873519,real
+304,2014-01-01,Brasil,América Central,Trinidade Tobago,360,1600,3767.545296442688,real
+305,2014-01-01,Brasil,América do Sul,Venezuela,14,232,546.2940679841897,real
+306,2015-01-01,Brasil,Europa,"Alemanha, República Democrática",10680,44780,149506.80688000002,real
+307,2015-01-01,Brasil,África,Angola,1908,17089,57054.975944000005,real
+308,2015-01-01,Brasil,América Central,Antilhas Holandesas,6660,10545,35206.54932,real
+309,2015-01-01,Brasil,Oceania,Austrália,7437,48011,160294.133656,real
+310,2015-01-01,Brasil,América do Sul,Bolívia,10674,12990,43369.66104,real
+311,2015-01-01,Brasil,Europa,Bélgica,4473,26399,88138.235704,real
+312,2015-01-01,Brasil,América do Norte,Canadá,24547,118394,395281.57422400004,real
+313,2015-01-01,Brasil,Ásia,China,47609,222866,744081.8227360001,real
+314,2015-01-01,Brasil,Ásia,Cingapura,1116,2774,9261.542704,real
+315,2015-01-01,Brasil,América do Norte,Cuba,97965,108864,363463.80134400004,real
+316,2015-01-01,Brasil,Europa,Dinamarca,7080,29306,97843.824976,real
+317,2015-01-01,Brasil,Ásia,Emirados Arabes Unidos,765,3740,12486.72304,real
+318,2015-01-01,Brasil,América do Norte,Estados Unidos,195896,524109,1749840.621864,real
+319,2015-01-01,Brasil,Europa,França,1596,4749,15855.467304,real
+320,2015-01-01,Brasil,Ásia,Hong Kong,1229,7837,26165.360552000002,real
+321,2015-01-01,Brasil,Ásia,Japão,31597,87853,293314.45968800003,real
+322,2015-01-01,Brasil,Europa,Luxemburgo,2295,17358,57953.085168000005,real
+323,2015-01-01,Brasil,Europa,Noruega,1058,6021,20102.288616,real
+324,2015-01-01,Brasil,Oceania,Nova Zelândia,809,3476,11605.307296,real
+325,2015-01-01,Brasil,América do Sul,Paraguai,495428,741370,2475209.05352,real
+326,2015-01-01,Brasil,Europa,Países Baixos,44987,186464,622546.6109440001,real
+327,2015-01-01,Brasil,Europa,Polônia,11654,42781,142832.75357600002,real
+328,2015-01-01,Brasil,Europa,Portugal,47736,42586,142181.707856,real
+329,2015-01-01,Brasil,Europa,Reino Unido,68382,308407,1029677.217272,real
+330,2015-01-01,Brasil,Europa,Rússia,47664,18240,60897.81504,real
+331,2015-01-01,Brasil,América do Sul,Suriname,453,713,2380.490248,real
+332,2015-01-01,Brasil,Europa,Suécia,1412,6404,21381.009184000002,real
+333,2015-01-01,Brasil,Europa,Suíça,15872,85790,286426.72984,real
+334,2015-01-01,Brasil,Ásia,Taiwan (FORMOSA),7200,23940,79928.38224,real
+335,2015-01-01,Brasil,Europa,"Tcheca, República",2297,15304,51095.403584,real
+336,2016-01-01,Brasil,Europa,"Alemanha, República Democrática",14012,68109,237245.92488406374,real
+337,2016-01-01,Brasil,África,Angola,7359,35390,123274.94577290837,real
+338,2016-01-01,Brasil,América Central,Antilhas Holandesas,16641,26450,92134.00157370519,real
+339,2016-01-01,Brasil,Oceania,Austrália,1954,13799,48066.4305374502,real
+340,2016-01-01,Brasil,África,Benin,5040,20333,70826.48975418326,real
+341,2016-01-01,Brasil,América do Sul,Bolívia,13586,16902,58875.19450278884,real
+342,2016-01-01,Brasil,Europa,Bélgica,7200,46534,162093.14288207173,real
+343,2016-01-01,Brasil,América do Norte,Canadá,13711,71096,247650.62290677291,real
+344,2016-01-01,Brasil,Ásia,China,134106,499622,1740346.8481760956,real
+345,2016-01-01,Brasil,Ásia,Cingapura,5445,13199,45976.43428247012,real
+346,2016-01-01,Brasil,Ásia,"Coreia, Republica Sul",8,20,69.66654183266932,real
+347,2016-01-01,Brasil,América do Norte,Cuba,63741,69830,243240.73080876496,real
+348,2016-01-01,Brasil,Europa,Dinamarca,1278,8171,28462.265665737053,real
+349,2016-01-01,Brasil,Ásia,Emirados Arabes Unidos,585,2760,9613.982772908366,real
+350,2016-01-01,Brasil,América do Norte,Estados Unidos,258072,687411,2394477.3593868525,real
+351,2016-01-01,Brasil,Europa,Estônia,900,4800,16719.97003984064,real
+352,2016-01-01,Brasil,Europa,Finlândia,7617,41003,142826.86073824702,real
+353,2016-01-01,Brasil,Europa,França,6037,30055,104691.39573904383,real
+354,2016-01-01,Brasil,Ásia,Hong Kong,6975,86199,300259.31197171315,real
+355,2016-01-01,Brasil,Europa,Itália,585,3465,12069.72837250996,real
+356,2016-01-01,Brasil,Ásia,Japão,34341,90954,316822.5322924303,real
+357,2016-01-01,Brasil,Europa,Luxemburgo,2759,21426,74633.76626533865,real
+358,2016-01-01,Brasil,Oceania,Nova Zelândia,504,9472,32994.07421195219,real
+359,2016-01-01,Brasil,América do Sul,Paraguai,985739,1655417,5766358.884050597,real
+360,2016-01-01,Brasil,Europa,Países Baixos,42953,190203,662539.2628099602,real
+361,2016-01-01,Brasil,Europa,Polônia,11457,35402,123316.74569800797,real
+362,2016-01-01,Brasil,Europa,Reino Unido,117044,536681,1869435.4668649402,real
+363,2016-01-01,Brasil,América do Sul,Suriname,900,1375,4789.574750996016,real
+364,2016-01-01,Brasil,Europa,Suécia,291,1214,4228.759089243028,real
+365,2016-01-01,Brasil,Europa,Suíça,4230,33340,116134.12523505976,real
+366,2016-01-01,Brasil,Ásia,Taiwan (FORMOSA),16967,80379,279986.3482984064,real
+367,2016-01-01,Brasil,Europa,"Tcheca, República",3837,28473,99180.77228007968,real
+368,2016-01-01,Brasil,Europa,Áustria,675,5220,18182.967418326694,real
+369,2017-01-01,Brasil,Europa,"Alemanha, República Democrática",15467,87702,279992.6150506024,real
+370,2017-01-01,Brasil,África,Angola,10170,61680,196916.19913253014,real
+371,2017-01-01,Brasil,América Central,Antilhas Holandesas,5400,8550,27296.26301204819,real
+372,2017-01-01,Brasil,Oceania,Austrália,1350,7500,23944.090361445782,real
+373,2017-01-01,Brasil,América do Sul,Bolívia,9495,23085,73699.91013253012,real
+374,2017-01-01,Brasil,Europa,Bulgária,117,1579,5041.029157429719,real
+375,2017-01-01,Brasil,Europa,Bélgica,2790,16405,52373.70698393574,real
+376,2017-01-01,Brasil,África,Camarões,1749,7476,23867.469272289156,real
+377,2017-01-01,Brasil,América do Norte,Canadá,6075,30658,97877.0563068273,real
+378,2017-01-01,Brasil,Ásia,Catar,13338,81606,260530.85840481927,real
+379,2017-01-01,Brasil,Ásia,China,67594,266086,849491.630388755,real
+380,2017-01-01,Brasil,América do Norte,Cuba,62791,72229,230594.360362249,real
+381,2017-01-01,Brasil,América Central,Curaçao,12340,23011,73463.66177429719,real
+382,2017-01-01,Brasil,Europa,Dinamarca,581,2829,9031.71088433735,real
+383,2017-01-01,Brasil,Ásia,Emirados Arabes Unidos,675,3302,10541.784849799196,real
+384,2017-01-01,Brasil,América do Norte,Estados Unidos,132688,1523699,4864478.205285944,real
+385,2017-01-01,Brasil,Europa,França,4253,21654,69131.37769156626,real
+386,2017-01-01,Brasil,África,Guine Bissau,48,90,287.3290843373494,real
+387,2017-01-01,Brasil,África,Guine Equatorial,2639,30563,97573.76449558233,real
+388,2017-01-01,Brasil,Ásia,Hong Kong,1934,8180,26115.021220883533,real
+389,2017-01-01,Brasil,Europa,Itália,468,2248,7176.842017670683,real
+390,2017-01-01,Brasil,Ásia,Japão,33909,92886,296542.77030843374,real
+391,2017-01-01,Brasil,Europa,Letônia,387,3723,11885.846455421686,real
+392,2017-01-01,Brasil,Europa,Luxemburgo,2719,21947,70066.79348835342,real
+393,2017-01-01,Brasil,América do Norte,México,664,2292,7317.314014457831,real
+394,2017-01-01,Brasil,Oceania,Nova Zelândia,1678,8140,25987.31940562249,real
+395,2017-01-01,Brasil,América do Sul,Paraguai,2393468,4274650,13647014.115140563,real
+396,2017-01-01,Brasil,Europa,Reino Unido,60711,242883,775414.9999012048,real
+397,2017-01-01,Brasil,América do Sul,Suriname,3690,5638,17999.570861044176,real
+398,2017-01-01,Brasil,Europa,Suécia,15445,64953,207365.40016626506,real
+399,2017-01-01,Brasil,Europa,Suíça,6525,74816,238853.47526425702,real
+400,2017-01-01,Brasil,Ásia,Taiwan (FORMOSA),14988,43954,140325.1396995984,real
+401,2017-01-01,Brasil,Europa,"Tcheca, República",2746,16947,54104.066580722894,real
+402,2017-01-01,Brasil,América do Sul,Venezuela,680,2646,8447.475079518072,real
+403,2018-01-01,Brasil,Europa,"Alemanha, República Democrática",10794,45382,165906.8076408,real
+404,2018-01-01,Brasil,África,Angola,477,709,2591.9511396,real
+405,2018-01-01,Brasil,América Central,Antígua e Barbuda,37,191,698.2548204,real
+406,2018-01-01,Brasil,América do Sul,Argentina,15711,59150,216239.64726,real
+407,2018-01-01,Brasil,Oceania,Austrália,2055,6902,25232.2239288,real
+408,2018-01-01,Brasil,América do Norte,Bahamas,141,634,2317.7673096,real
+409,2018-01-01,Brasil,América do Sul,Bolívia,21566,57424,209929.7633856,real
+410,2018-01-01,Brasil,Europa,Bélgica,7497,52799,193021.76053559998,real
+411,2018-01-01,Brasil,África,Cabo Verde,18,48,175.4776512,real
+412,2018-01-01,Brasil,América do Norte,Canadá,5308,20414,74629.1827416,real
+413,2018-01-01,Brasil,América do Norte,"Cayman, Ilhas",19,203,742.1242331999999,real
+414,2018-01-01,Brasil,América do Sul,Chile,11049,42832,156584.5574208,real
+415,2018-01-01,Brasil,Ásia,China,30835,126336,461857.1779584,real
+416,2018-01-01,Brasil,Europa,Chipre,279,480,1754.776512,real
+417,2018-01-01,Brasil,Ásia,Cingapura,3298,11616,42465.5915904,real
+418,2018-01-01,Brasil,América do Sul,Colômbia,6944,26273,96048.4235412,real
+419,2018-01-01,Brasil,Ásia,"Coreia, Republica Sul",120,109,398.4804996,real
+420,2018-01-01,Brasil,América do Norte,Cuba,4776,5584,20413.9000896,real
+421,2018-01-01,Brasil,América Central,Curaçao,23930,43676,159670.0394544,real
+422,2018-01-01,Brasil,Ásia,Emirados Arabes Unidos,360,1762,6441.4921128,real
+423,2018-01-01,Brasil,Europa,Espanha,6123,22631,82734.0567564,real
+424,2018-01-01,Brasil,América do Norte,Estados Unidos,169109,512519,1873658.9649036,real
+425,2018-01-01,Brasil,Ásia,Filipinas,9608,16205,59241.986202,real
+426,2018-01-01,Brasil,Europa,França,11077,48677,177952.61723879998,real
+427,2018-01-01,Brasil,África,Gana,9000,13502,49360.4009688,real
+428,2018-01-01,Brasil,Europa,Grécia,232,730,2668.722612,real
+429,2018-01-01,Brasil,África,Guine Equatorial,8389,26808,98004.2681952,real
+430,2018-01-01,Brasil,América do Norte,Haiti,79500,144425,527986.66197,real
+431,2018-01-01,Brasil,Ásia,Hong Kong,1742,9029,33008.077347599996,real
+432,2018-01-01,Brasil,Europa,Irlanda,7560,25767,94198.5966348,real
+433,2018-01-01,Brasil,Europa,Itália,3661,13260,48475.701144,real
+434,2018-01-01,Brasil,Ásia,Japão,36992,112342,410698.13106479996,real
+435,2018-01-01,Brasil,África,Libéria,658,3100,11332.93164,real
+436,2018-01-01,Brasil,Europa,Luxemburgo,1778,11053,40407.3849732,real
+437,2018-01-01,Brasil,Europa,Malta,503,1192,4357.6950048,real
+438,2018-01-01,Brasil,Ásia,Malásia,15,33,120.6408852,real
+439,2018-01-01,Brasil,Oceania,"Marshall, Ilhas",923,2436,8905.4907984,real
+440,2018-01-01,Brasil,América do Norte,México,2748,9744,35621.9631936,real
+441,2018-01-01,Brasil,África,Nigéria,5175,6250,22848.6525,real
+442,2018-01-01,Brasil,Europa,Noruega,1295,9847,35998.5089868,real
+443,2018-01-01,Brasil,Oceania,Nova Zelândia,969,5565,20344.440186,real
+444,2018-01-01,Brasil,América Central,Panamá,1183,3117,11395.079974799999,real
+445,2018-01-01,Brasil,América do Sul,Paraguai,3234168,5494321,20086053.0003924,real
+446,2018-01-01,Brasil,Europa,Países Baixos,9451,32395,118429.13563799999,real
+447,2018-01-01,Brasil,América do Sul,Peru,5193,19372,70819.8553968,real
+448,2018-01-01,Brasil,Europa,Polônia,720,4679,17105.4152076,real
+449,2018-01-01,Brasil,África,Quênia,6771,31225,114151.86789,real
+450,2018-01-01,Brasil,Europa,Reino Unido,67708,296827,1085135.5160987999,real
+451,2018-01-01,Brasil,Europa,Suécia,8062,34563,126354.8762172,real
+452,2018-01-01,Brasil,África,São Tomé e Príncipe,2184,2357,8616.6838308,real
+453,2018-01-01,Brasil,Ásia,Tailândia,8,45,164.510298,real
+454,2018-01-01,Brasil,Ásia,Taiwan (FORMOSA),7589,18421,67343.2044324,real
+455,2018-01-01,Brasil,Europa,"Tcheca, República",2712,20980,76698.356712,real
+456,2018-01-01,Brasil,Ásia,Turquia,360,150,548.36766,real
+457,2018-01-01,Brasil,América do Sul,Uruguai,7711,29617,108273.36657479999,real
+458,2018-01-01,Brasil,América do Sul,Venezuela,71,355,1297.803462,real
+459,2019-01-01,Brasil,Europa,"Alemanha, República Democrática",3660,25467,100495.80180237154,real
+460,2019-01-01,Brasil,África,Angola,345,1065,4202.61628458498,real
+461,2019-01-01,Brasil,América Central,Antígua e Barbuda,219,1549,6112.537675889328,real
+462,2019-01-01,Brasil,Oceania,Austrália,1161,4682,18475.727177865614,real
+463,2019-01-01,Brasil,América do Norte,Bahamas,791,3124,12327.67443478261,real
+464,2019-01-01,Brasil,América Central,Barbados,36,394,1554.770719367589,real
+465,2019-01-01,Brasil,Ásia,Barein,482,2144,8460.478229249013,real
+466,2019-01-01,Brasil,América Central,Belice,9,29,114.43743873517788,real
+467,2019-01-01,Brasil,África,Benin,9,9,35.51506719367589,real
+468,2019-01-01,Brasil,Europa,Bélgica,2498,12548,49515.89590513834,real
+469,2019-01-01,Brasil,América do Norte,Canadá,1589,6933,27358.44009486166,real
+470,2019-01-01,Brasil,América do Norte,"Cayman, Ilhas",19,106,418.2885691699605,real
+471,2019-01-01,Brasil,Ásia,China,129852,376828,1487007.9711620554,real
+472,2019-01-01,Brasil,Europa,Chipre,672,1843,7272.696537549407,real
+473,2019-01-01,Brasil,Ásia,Cingapura,5044,19099,75366.91870355731,real
+474,2019-01-01,Brasil,América do Sul,Colômbia,897,1999,7888.291035573123,real
+475,2019-01-01,Brasil,Ásia,"Coreia, Republica Sul",70,194,765.5470039525692,real
+476,2019-01-01,Brasil,América Central,Curaçao,33951,62067,244923.74172332018,real
+477,2019-01-01,Brasil,Europa,Dinamarca,240,306,1207.5122845849803,real
+478,2019-01-01,Brasil,Ásia,Emirados Arabes Unidos,450,2202,8689.353106719369,real
+479,2019-01-01,Brasil,América do Sul,Equador,2,3,11.838355731225297,real
+480,2019-01-01,Brasil,Europa,Espanha,3540,1353,5339.098434782609,real
+481,2019-01-01,Brasil,América do Norte,Estados Unidos,209765,616274,2431890.2799683795,real
+482,2019-01-01,Brasil,Ásia,Filipinas,736,2486,9810.050782608696,real
+483,2019-01-01,Brasil,Europa,França,18286,67072,264674.06520158105,real
+484,2019-01-01,Brasil,África,Gana,7673,10010,39500.64695652174,real
+485,2019-01-01,Brasil,Europa,Gibraltar,23,93,366.9890276679842,real
+486,2019-01-01,Brasil,Europa,Grécia,561,1994,7868.560442687747,real
+487,2019-01-01,Brasil,América Central,Guatemala,1597,8719,34406.207873517786,real
+488,2019-01-01,Brasil,América do Sul,Guiana,424,1311,5173.361454545455,real
+489,2019-01-01,Brasil,América do Norte,Haiti,81873,129803,512218.0296600791,real
+490,2019-01-01,Brasil,Ásia,Hong Kong,9651,42020,165815.90260869567,real
+491,2019-01-01,Brasil,Europa,Ilha de Man,28,175,690.5707509881423,real
+492,2019-01-01,Brasil,Ásia,India,51,273,1077.290371541502,real
+493,2019-01-01,Brasil,Europa,Itália,587,1625,6412.442687747036,real
+494,2019-01-01,Brasil,Ásia,Japão,40621,99642,393199.14725691703,real
+495,2019-01-01,Brasil,África,Libéria,4441,20068,79190.70760474309,real
+496,2019-01-01,Brasil,Europa,Luxemburgo,1666,11211,44239.935367588936,real
+497,2019-01-01,Brasil,Europa,Malta,3661,8828,34836.334798418975,real
+498,2019-01-01,Brasil,Ásia,Malásia,48,110,434.0730434782609,real
+499,2019-01-01,Brasil,Oceania,"Marshall, Ilhas",7276,15786,62293.42785770752,real
+500,2019-01-01,Brasil,Europa,Montenegro,9,46,181.52145454545456,real
+501,2019-01-01,Brasil,América do Norte,México,4,4,15.784474308300396,real
+502,2019-01-01,Brasil,África,Nigéria,28437,38555,152142.60173913045,real
+503,2019-01-01,Brasil,Europa,Noruega,628,3139,12386.866213438736,real
+504,2019-01-01,Brasil,Oceania,Nova Zelândia,500,2832,11175.40781027668,real
+505,2019-01-01,Brasil,América Central,Panamá,7918,29017,114504.52275098815,real
+506,2019-01-01,Brasil,América do Sul,Paraguai,2419537,3826587,15100166.047494072,real
+507,2019-01-01,Brasil,Europa,Países Baixos,44882,148031,584147.879083004,real
+508,2019-01-01,Brasil,América do Sul,Peru,9755,17310,68307.31256916997,real
+509,2019-01-01,Brasil,Europa,Polônia,5,11,43.40730434782609,real
+510,2019-01-01,Brasil,Europa,Portugal,18328,72413,285750.2845217392,real
+511,2019-01-01,Brasil,Europa,Reino Unido,34295,164592,649499.5488379447,real
+512,2019-01-01,Brasil,África,Serra Leoa,18,717,2829.367019762846,real
+513,2019-01-01,Brasil,América do Sul,Suriname,3206,4741,18708.548173913045,real
+514,2019-01-01,Brasil,Europa,Suécia,28,761,3002.9962371541505,real
+515,2019-01-01,Brasil,Europa,Suíça,2223,28503,112476.21780237155,real
+516,2019-01-01,Brasil,Ásia,Tailândia,128,832,3283.1706561264823,real
+517,2019-01-01,Brasil,Ásia,Taiwan (FORMOSA),12,67,264.38994466403165,real
+518,2019-01-01,Brasil,Europa,"Tcheca, República",2115,16391,64680.829596837946,real
+519,2019-01-01,Brasil,Ásia,Turquia,115,209,824.7387826086957,real
+520,2019-01-01,Brasil,América do Sul,Uruguai,6180,18497,72991.35532015811,real
+521,2019-01-01,Brasil,Ásia,Vietnã,20,32,126.27579446640317,real
+522,2019-01-01,Brasil,África,África do Sul,26,95,374.8812648221344,real
+523,2020-01-01,Brasil,Europa,"Alemanha, República Democrática",6261,32605,168169.18567729084,real
+524,2020-01-01,Brasil,América Central,Antígua e Barbuda,624,1864,9614.088701195218,real
+525,2020-01-01,Brasil,América do Sul,Argentina,1015,4176,21538.859665338645,real
+526,2020-01-01,Brasil,Oceania,Austrália,1013,3413,17603.478936254978,real
+527,2020-01-01,Brasil,América do Norte,Bahamas,1212,3703,19099.233079681275,real
+528,2020-01-01,Brasil,Ásia,Bangladesh,3,29,149.57541434262947,real
+529,2020-01-01,Brasil,América Central,Barbados,143,169,871.6636215139441,real
+530,2020-01-01,Brasil,Ásia,Barein,8,28,144.41764143426295,real
+531,2020-01-01,Brasil,América do Sul,Bolívia,9900,16025,82653.3108565737,real
+532,2020-01-01,Brasil,Europa,Bélgica,3166,20460,105528.03370517927,real
+533,2020-01-01,Brasil,Europa,Bósnia-Herzegovina,45,52,268.20419123505974,real
+534,2020-01-01,Brasil,América do Norte,Canadá,1672,8431,43485.183390438244,real
+535,2020-01-01,Brasil,América do Norte,"Cayman, Ilhas",123,339,1748.485015936255,real
+536,2020-01-01,Brasil,América do Sul,Chile,11,13,67.05104780876493,real
+537,2020-01-01,Brasil,Ásia,China,122253,363000,1872271.5657370517,real
+538,2020-01-01,Brasil,Europa,Chipre,2478,6785,34995.48918326693,real
+539,2020-01-01,Brasil,Ásia,Cingapura,4049,9316,48049.812414342625,real
+540,2020-01-01,Brasil,América do Sul,Colômbia,15660,23780,122651.83976095617,real
+541,2020-01-01,Brasil,África,Comores,9,25,128.94432270916334,real
+542,2020-01-01,Brasil,Ásia,"Coreia, Republica Sul",103,433,2233.3156693227093,real
+543,2020-01-01,Brasil,Europa,Croácia,21,123,634.4060677290836,real
+544,2020-01-01,Brasil,América Central,Curaçao,47962,65986,340340.80313147407,real
+545,2020-01-01,Brasil,Europa,Dinamarca,659,1962,10119.550446215138,real
+546,2020-01-01,Brasil,Ásia,Emirados Arabes Unidos,581,2279,11754.56445816733,real
+547,2020-01-01,Brasil,América do Sul,Equador,3780,3824,19723.323601593624,real
+548,2020-01-01,Brasil,Europa,Espanha,28,126,649.8793864541832,real
+549,2020-01-01,Brasil,América do Norte,Estados Unidos,300178,610793,3150331.58801992,real
+550,2020-01-01,Brasil,Ásia,Filipinas,719,1548,7984.2324621513935,real
+551,2020-01-01,Brasil,Europa,França,12622,57144,294735.77507569717,real
+552,2020-01-01,Brasil,África,Gana,18810,22027,113610.26385258963,real
+553,2020-01-01,Brasil,Europa,Gibraltar,769,2860,14751.230517928287,real
+554,2020-01-01,Brasil,Europa,Grécia,6859,18092,93314.42745816732,real
+555,2020-01-01,Brasil,América do Sul,Guiana,990,2577,13291.580784860556,real
+556,2020-01-01,Brasil,América do Norte,Haiti,399128,471152,2430095.021322709,real
+557,2020-01-01,Brasil,Ásia,Hong Kong,15159,41987,216559.41110358565,real
+558,2020-01-01,Brasil,Europa,Ilha de Man,11,121,624.0905219123506,real
+559,2020-01-01,Brasil,Ásia,India,7,10,51.57772908366533,real
+560,2020-01-01,Brasil,Ásia,Indonésia,5,6,30.9466374501992,real
+561,2020-01-01,Brasil,Europa,Irlanda,29,257,1325.547637450199,real
+562,2020-01-01,Brasil,Ásia,Irã,21,35,180.52205179282868,real
+563,2020-01-01,Brasil,Europa,Itália,91,376,1939.3226135458167,real
+564,2020-01-01,Brasil,Ásia,Japão,36442,92674,477991.4465099601,real
+565,2020-01-01,Brasil,Ásia,Jordânia,12,52,268.20419123505974,real
+566,2020-01-01,Brasil,África,Libéria,5155,17624,90900.58973705179,real
+567,2020-01-01,Brasil,Europa,Luxemburgo,1086,5110,26356.219561752987,real
+568,2020-01-01,Brasil,Europa,Malta,3490,9688,49968.50393625498,real
+569,2020-01-01,Brasil,Oceania,"Marshall, Ilhas",6270,19639,101293.50214741036,real
+570,2020-01-01,Brasil,Europa,Montenegro,9,20,103.15545816733066,real
+571,2020-01-01,Brasil,América do Norte,México,24,226,1165.6566772908366,real
+572,2020-01-01,Brasil,África,Nigéria,12094,26514,136753.19089243028,real
+573,2020-01-01,Brasil,Europa,Noruega,1859,15134,78057.73519521912,real
+574,2020-01-01,Brasil,Oceania,Nova Zelândia,95,515,2656.2530478087647,real
+575,2020-01-01,Brasil,América Central,Panamá,10821,28372,146336.3329561753,real
+576,2020-01-01,Brasil,América do Sul,Paraguai,3299013,3869243,19956676.721286852,real
+577,2020-01-01,Brasil,Europa,Países Baixos,248,1532,7901.70809561753,real
+578,2020-01-01,Brasil,Europa,Polônia,74,86,443.56847011952186,real
+579,2020-01-01,Brasil,Europa,Portugal,7958,34518,178036.005250996,real
+580,2020-01-01,Brasil,Europa,Reino Unido,22913,82722,426661.2905258964,real
+581,2020-01-01,Brasil,Europa,Rússia,1463,8550,44098.958366533865,real
+582,2020-01-01,Brasil,África,Serra Leoa,9240,13050,67308.93645418326,real
+583,2020-01-01,Brasil,América do Sul,Suriname,4185,5277,27217.567637450196,real
+584,2020-01-01,Brasil,Europa,Suécia,6,24,123.7865498007968,real
+585,2020-01-01,Brasil,Europa,Suíça,2827,27930,144056.5973306773,real
+586,2020-01-01,Brasil,Ásia,Tailândia,534,1753,9041.575908366533,real
+587,2020-01-01,Brasil,Ásia,Taiwan (FORMOSA),963,4673,24102.27280079681,real
+588,2020-01-01,Brasil,Europa,"Tcheca, República",563,4805,24783.098824701196,real
+589,2020-01-01,Brasil,Oceania,Tuvalu,2,4,20.631091633466134,real
+590,2020-01-01,Brasil,Oceania,Vanuatu,18,31,159.89096015936255,real
+591,2020-01-01,Brasil,América do Sul,Venezuela,4086,9808,50587.43668525896,real
+592,2020-01-01,Brasil,Ásia,Vietnã,86,584,3012.1393784860556,real
+593,2020-01-01,Brasil,África,África do Sul,4,21,108.3132310756972,real
+594,2021-01-01,Brasil,Ásia,Afeganistão,11,46,248.1957856573705,real
+595,2021-01-01,Brasil,Europa,"Alemanha, República Democrática",2698,6741,36371.473719920315,real
+596,2021-01-01,Brasil,América Central,Antígua e Barbuda,805,2268,12237.13134501992,real
+597,2021-01-01,Brasil,América do Sul,Argentina,6,13,70.14228725099602,real
+598,2021-01-01,Brasil,Oceania,Austrália,705,4034,21765.69129003984,real
+599,2021-01-01,Brasil,América do Norte,Bahamas,1083,4567,24641.525067330676,real
+600,2021-01-01,Brasil,Ásia,Bangladesh,2,20,107.91121115537848,real
+601,2021-01-01,Brasil,América Central,Barbados,216,844,4553.853110756972,real
+602,2021-01-01,Brasil,Ásia,Barein,302,894,4823.631138645418,real
+603,2021-01-01,Brasil,América do Sul,Bolívia,5850,8360,45106.8862629482,real
+604,2021-01-01,Brasil,América do Sul,Brasil,31,46,248.1957856573705,real
+605,2021-01-01,Brasil,Europa,Bélgica,483,3749,20227.956531075695,real
+606,2021-01-01,Brasil,África,Cabo Verde,16,124,669.0495091633466,real
+607,2021-01-01,Brasil,América do Norte,Canadá,1172,6157,33220.46635418326,real
+608,2021-01-01,Brasil,Ásia,Catar,1,2,10.791121115537848,real
+609,2021-01-01,Brasil,América do Norte,"Cayman, Ilhas",104,356,1920.819558565737,real
+610,2021-01-01,Brasil,América do Sul,Chile,26,6,32.373363346613544,real
+611,2021-01-01,Brasil,Ásia,China,61884,264116,1425053.872275697,real
+612,2021-01-01,Brasil,Europa,Chipre,1855,4530,24441.889326693225,real
+613,2021-01-01,Brasil,América do Sul,Colômbia,12160,21867,117984.72271673306,real
+614,2021-01-01,Brasil,Ásia,"Coreia, Republica Sul",67,100,539.5560557768924,real
+615,2021-01-01,Brasil,América Central,Curaçao,32263,58993,318300.3039844621,real
+616,2021-01-01,Brasil,Europa,Dinamarca,87,504,2719.3625211155377,real
+617,2021-01-01,Brasil,América Central,Dominica,460,634,3420.785393625498,real
+618,2021-01-01,Brasil,Ásia,Emirados Arabes Unidos,810,10522,56772.08818884462,real
+619,2021-01-01,Brasil,América do Norte,Estados Unidos,111085,203554,1098287.9337760955,real
+620,2021-01-01,Brasil,Ásia,Filipinas,2784,10368,55941.171862948206,real
+621,2021-01-01,Brasil,Europa,França,7052,23742,128101.3987625498,real
+622,2021-01-01,Brasil,África,Gana,12578,19196,103573.18046693227,real
+623,2021-01-01,Brasil,Europa,Grécia,908,3014,16262.219521115538,real
+624,2021-01-01,Brasil,América Central,Guatemala,17347,29100,157010.8122310757,real
+625,2021-01-01,Brasil,América do Sul,Guiana,2372,6525,35206.03263944223,real
+626,2021-01-01,Brasil,América do Sul,Guiana Francesa,90,32,172.65793784860557,real
+627,2021-01-01,Brasil,América do Norte,Haiti,670379,831181,4484687.419966932,real
+628,2021-01-01,Brasil,Ásia,Hong Kong,12507,39390,212531.13037051793,real
+629,2021-01-01,Brasil,Europa,Hungria,87,583,3145.611805179283,real
+630,2021-01-01,Brasil,Europa,Ilha de Man,97,445,2401.024448207171,real
+631,2021-01-01,Brasil,Ásia,India,13,86,464.01820796812746,real
+632,2021-01-01,Brasil,Europa,Irlanda,36,208,1122.2765960159363,real
+633,2021-01-01,Brasil,Ásia,Irã,116,287,1548.5258800796812,real
+634,2021-01-01,Brasil,Europa,Itália,696,3715,20044.507472111552,real
+635,2021-01-01,Brasil,Ásia,Japão,39491,90275,487084.22935258964,real
+636,2021-01-01,Brasil,África,Libéria,7554,23060,124421.62646215138,real
+637,2021-01-01,Brasil,Europa,Malta,3441,15454,83382.99285976095,real
+638,2021-01-01,Brasil,Oceania,"Marshall, Ilhas",8644,22561,121729.24174382469,real
+639,2021-01-01,Brasil,África,Mauritânia,9,85,458.6226474103585,real
+640,2021-01-01,Brasil,Europa,Montenegro,14,65,350.7114362549801,real
+641,2021-01-01,Brasil,América do Norte,México,9,2,10.791121115537848,real
+642,2021-01-01,Brasil,África,Nigéria,68247,113172,610626.3794438246,real
+643,2021-01-01,Brasil,Europa,Noruega,1878,8320,44891.06384063745,real
+644,2021-01-01,Brasil,Oceania,Nova Caledônia,7227,11924,64336.66409083665,real
+645,2021-01-01,Brasil,Oceania,Nova Zelândia,657,10477,56529.28796374502,real
+646,2021-01-01,Brasil,América Central,Panamá,29520,48444,261382.53566055777,real
+647,2021-01-01,Brasil,América do Sul,Paraguai,6522527,7192362,38806824.72439601,real
+648,2021-01-01,Brasil,Europa,Países Baixos,3791,8484,45775.93577211155,real
+649,2021-01-01,Brasil,América do Sul,Peru,9720,17107,92301.85446175298,real
+650,2021-01-01,Brasil,Europa,Polônia,4,14,75.53784780876494,real
+651,2021-01-01,Brasil,Europa,Portugal,6358,42633,230028.93325936253,real
+652,2021-01-01,Brasil,Europa,Reino Unido,25316,122394,660384.2389075697,real
+653,2021-01-01,Brasil,Europa,Rússia,181931,312926,1688411.1831003984,real
+654,2021-01-01,Brasil,África,Serra Leoa,6525,12955,69899.48702589641,real
+655,2021-01-01,Brasil,Ásia,Singapura,4504,14346,77404.71176175299,real
+656,2021-01-01,Brasil,África,Suazilândia,10,24,129.49345338645418,real
+657,2021-01-01,Brasil,América do Sul,Suriname,900,1472,7942.265141035856,real
+658,2021-01-01,Brasil,Europa,Suécia,23,74,399.2714812749004,real
+659,2021-01-01,Brasil,Europa,Suíça,627,6999,37763.5283438247,real
+660,2021-01-01,Brasil,América Central,São Vicente e Granadinas,8,48,258.98690677290836,real
+661,2021-01-01,Brasil,Ásia,Tailândia,1334,2529,13645.372650597608,real
+662,2021-01-01,Brasil,Ásia,Taiwan (FORMOSA),1313,8153,43990.00522749004,real
+663,2021-01-01,Brasil,Europa,"Tcheca, República",456,5988,32308.616619920318,real
+664,2021-01-01,Brasil,África,Togo,1890,2012,10855.867842231075,real
+665,2021-01-01,Brasil,Ásia,Turquia,343,878,4737.302169721115,real
+666,2021-01-01,Brasil,América do Sul,Uruguai,136774,149842,808481.5850972111,real
+667,2021-01-01,Brasil,América do Sul,Venezuela,26415,35944,193938.0286884462,real
+668,2022-01-01,Brasil,Europa,"Alemanha, República Democrática",7630,45367,234342.44322191234,real
+669,2022-01-01,Brasil,África,Angola,4068,4761,24592.862040239044,real
+670,2022-01-01,Brasil,América Central,Antígua e Barbuda,419,1866,9638.790289243028,real
+671,2022-01-01,Brasil,América do Sul,Argentina,480,3232,16694.839343426294,real
+672,2022-01-01,Brasil,Oceania,Austrália,1424,12299,63530.2689,real
+673,2022-01-01,Brasil,América do Norte,Bahamas,1215,5799,29954.632844223106,real
+674,2022-01-01,Brasil,Ásia,Bangladesh,7,84,433.90052749003985,real
+675,2022-01-01,Brasil,América Central,Barbados,220,1145,5914.477428286853,real
+676,2022-01-01,Brasil,Ásia,Barein,979,2789,14406.530609163347,real
+677,2022-01-01,Brasil,América do Sul,Bolívia,32530,49011,253165.46134302788,real
+678,2022-01-01,Brasil,América do Sul,Brasil,2504,952,4917.5393115537845,real
+679,2022-01-01,Brasil,Europa,Bulgária,5,31,160.1299565737052,real
+680,2022-01-01,Brasil,Europa,Bélgica,828,6145,31741.889778884462,real
+681,2022-01-01,Brasil,América do Norte,Canadá,1183,5784,29877.150607171316,real
+682,2022-01-01,Brasil,América do Norte,"Cayman, Ilhas",160,958,4948.532206374502,real
+683,2022-01-01,Brasil,América do Sul,Chile,2094,7986,41251.5430063745,real
+684,2022-01-01,Brasil,Ásia,China,105395,404647,2090196.985086454,real
+685,2022-01-01,Brasil,Europa,Chipre,1521,4458,23027.72085179283,real
+686,2022-01-01,Brasil,Oceania,"Cocos (Keeling), Ilhas",26,60,309.9289482071713,real
+687,2022-01-01,Brasil,América do Sul,Colômbia,8217,14068,72668.00738964144,real
+688,2022-01-01,Brasil,Ásia,"Coreia, Republica Sul",77,257,1327.5289948207171,real
+689,2022-01-01,Brasil,Europa,Croácia,34,484,2500.093515537849,real
+690,2022-01-01,Brasil,América do Norte,Cuba,16,6,30.992894820717133,real
+691,2022-01-01,Brasil,América Central,Curaçao,40673,66950,345829.051374502,real
+692,2022-01-01,Brasil,Europa,Dinamarca,2,6,30.992894820717133,real
+693,2022-01-01,Brasil,América Central,Dominica,1485,2223,11482.867531075697,real
+694,2022-01-01,Brasil,Ásia,Emirados Arabes Unidos,4781,85465,441467.95930876496,real
+695,2022-01-01,Brasil,América do Sul,Equador,135,210,1084.7513187250995,real
+696,2022-01-01,Brasil,América do Norte,Estados Unidos,220373,447893,2313583.439989243,real
+697,2022-01-01,Brasil,Ásia,Filipinas,375,790,4080.7311513944223,real
+698,2022-01-01,Brasil,Europa,França,5694,25008,129178.385612749,real
+699,2022-01-01,Brasil,África,Gana,35949,49304,254678.94770677292,real
+700,2022-01-01,Brasil,América Central,Granada,5610,7914,40879.6282685259,real
+701,2022-01-01,Brasil,Europa,Grécia,920,2426,12531.46047250996,real
+702,2022-01-01,Brasil,América Central,Guatemala,1283,5350,27635.331215139442,real
+703,2022-01-01,Brasil,América do Sul,Guiana,2064,5823,30078.604423505974,real
+704,2022-01-01,Brasil,América do Sul,Guiana Francesa,22,18,92.97868446215139,real
+705,2022-01-01,Brasil,América do Norte,Haiti,553503,741014,3827694.8271131474,real
+706,2022-01-01,Brasil,Ásia,Hong Kong,9371,38218,197414.40904302787,real
+707,2022-01-01,Brasil,Europa,Ilha de Man,165,641,3311.0742633466134,real
+708,2022-01-01,Brasil,Ásia,India,247,1021,5273.957601992031,real
+709,2022-01-01,Brasil,Ásia,Irã,47,90,464.893422310757,real
+710,2022-01-01,Brasil,Europa,Itália,1129,6151,31772.88267370518,real
+711,2022-01-01,Brasil,Ásia,Japão,37324,82208,424643.98290358565,real
+712,2022-01-01,Brasil,África,Libéria,9145,34815,179836.27219721116,real
+713,2022-01-01,Brasil,Europa,Luxemburgo,36,802,4142.7169410358565,real
+714,2022-01-01,Brasil,Europa,Malta,3127,15587,80514.37526175298,real
+715,2022-01-01,Brasil,Oceania,"Marshall, Ilhas",7240,27178,140387.48257290837,real
+716,2022-01-01,Brasil,África,Moçambique,383,1927,9953.88471992032,real
+717,2022-01-01,Brasil,América do Norte,México,6,33,170.46092151394421,real
+718,2022-01-01,Brasil,África,Nigéria,32234,50283,259735.95504501992,real
+719,2022-01-01,Brasil,Europa,Noruega,2711,40316,208251.59126533865,real
+720,2022-01-01,Brasil,Oceania,Nova Zelândia,63,156,805.8152653386454,real
+721,2022-01-01,Brasil,Ásia,Omã,194,670,3460.8732549800798,real
+722,2022-01-01,Brasil,América Central,Panamá,11490,49392,255133.51016414343,real
+723,2022-01-01,Brasil,América do Sul,Paraguai,5076670,7156293,36965706.042539045,real
+724,2022-01-01,Brasil,Europa,Países Baixos,7034,37240,192362.567187251,real
+725,2022-01-01,Brasil,Europa,Portugal,1918,7613,39324.81804501992,real
+726,2022-01-01,Brasil,África,Quênia,1440,2080,10744.203537848605,real
+727,2022-01-01,Brasil,Europa,Reino Unido,18835,138154,713632.0651768924,real
+728,2022-01-01,Brasil,Europa,Rússia,66046,118618,612719.1996406375,real
+729,2022-01-01,Brasil,África,Serra Leoa,8101,15182,78422.35486135459,real
+730,2022-01-01,Brasil,Ásia,Singapura,4322,15434,79724.0564438247,real
+731,2022-01-01,Brasil,América do Sul,Suriname,1225,3360,17356.021099601592,real
+732,2022-01-01,Brasil,Europa,Suécia,5,18,92.97868446215139,real
+733,2022-01-01,Brasil,Europa,Suíça,1584,20863,107767.46077410359,real
+734,2022-01-01,Brasil,América Central,São Vicente e Granadinas,20,51,263.4396059760956,real
+735,2022-01-01,Brasil,Ásia,Tailândia,432,1713,8848.47147131474,real
+736,2022-01-01,Brasil,Ásia,Taiwan (FORMOSA),25,277,1430.8386442231076,real
+737,2022-01-01,Brasil,Europa,"Tcheca, República",1305,9997,51639.32825378486,real
+738,2022-01-01,Brasil,África,Togo,17317,25608,132277.6750948207,real
+739,2022-01-01,Brasil,Ásia,Turquia,418,503,2598.2376824701196,real
+740,2022-01-01,Brasil,América do Sul,Uruguai,637117,997367,5151881.754775697,real
+741,2022-01-01,Brasil,América do Sul,Venezuela,23220,32351,167108.52339083666,real
+742,2022-01-01,Brasil,Ásia,Vietnã,130,277,1430.8386442231076,real
+743,2022-01-01,Brasil,Europa,Áustria,6,212,1095.0822836653385,real
