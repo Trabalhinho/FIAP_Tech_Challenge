@@ -1,0 +1,13 @@
+TipoSituacaoAlunoDisciplina,Descricao,DominioSituacaoAlunoDisciplina,CodigoSituacaoMEC
+A,Aprovado,A,A
+AC,Aprovado por conselho de classe,A,P
+AE,Aproveitamento externo,A,A
+AN,Aprovado por Nota,AN,A
+C,Cursando,C,P
+P,Aproveitamento,A,A
+PM,Pré-Matricula,PM,P
+PR,Dispensado por Proficiência,PR,P
+R,Reprovado,R,R
+RF,Reprovado por Frequência,RF,R
+RN,Reprovado por Nota,RN,R
+TR,Trancado pelo Aluno,TR,P

@@ -1,0 +1,16 @@
+IdTipoResponsavel,TipoResponsavel,GrauParentesco
+1,Pai,P
+2,Mãe,M
+3,O próprio,O
+4,Outros,U
+5,Tia,U
+6,Padrasto,U
+7,Madrasta,U
+8,Avó,U
+9,Avô,U
+10,Tio,U
+11,Não definido,U
+12,Outros Responsaveis,U
+13,mae,U
+14,Irmão,U
+15,IRM,U
