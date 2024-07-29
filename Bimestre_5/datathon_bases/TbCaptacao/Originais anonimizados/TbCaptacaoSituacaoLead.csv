@@ -1,0 +1,6 @@
+IdCaptacaoSituacaoLead,Ordem,NomeCaptacaoSituacaoLead,StAtivo
+1,1,Potencial,True
+2,2,Contactado,True
+3,3,Visita agendada,True
+4,4,Visita realizada,True
+5,5,Pré-matriculado,True

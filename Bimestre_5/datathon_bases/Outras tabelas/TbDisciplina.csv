@@ -1,0 +1,14 @@
+IdDisciplina,NomeDisciplina,SiglaDisciplina,BaseComum,UsoEscola,TIAcodigo,CodigoAgrupamento,ES_CargaHoraria,TipoDisciplina,NumeroOrdemHistorico,ES_ConteudoProgramatico,CargaHorariaTotal,CargaHorariaPratica,CargaHorariaTeorica,QtdeCreditos,Ementa,ObjGeral,ObjEspecificos,Bibliografia,BibliografiaComplementar,Metodologia,Recursos,FormaDeAvaliacao,ConteudoProgramatico,Competencias,AulasPraticas,CargaHorariaEstagio,Educacenso_CodigoDisciplina,QtdeAulas
+1,PORTUGUÊS,02 - POR,True,True,,02,,1,,,,,,,,,,,,,,,,,,0.0,,0
+4,MATEMÁTICA,01 - MAT,True,True,,01,,1,,,,,,,,,,,,,,,,,,0.0,,0
+5,INGLÊS,03 - ING,False,True,,03 - ING,,1,,,,,,,,,,,,,,,,,,0.0,,0
+16,HERÓIS DA EDUCAÇÃO,Psicop0,True,True,,04 - PSICOP,,1,,,,,,,,,,,,,,,,,,,,0
+17,SACODE A POEIRA,Psicol6,True,True,,05 - PSICOL,,1,,,,,,,,,,,,,,,,,,,,0
+18,POLIVALENTE,POL,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+19,SABEDORIA EM AÇÃO,Psicop1,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+20,TRILHANDO MEU CAMINHO,Psicol8,True,False,,06 - PSICOL,,1,,,,,,,,,,,,,,,,,,,,0
+21,JORNADA DAS EMOÇÕES,Psicol3,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+22,QUEBRANDO BARREIRAS,Psicol4,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+23,SUPERAÇÃO,Psicol5,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+24,GUARDIÕES DO SABER,Psicop2,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0
+25,EU NO COMANDO / SACODE A POEIRA / SUPERAÇÃO,Psicol7,True,True,,,,1,,,,,,,,,,,,,,,,,,,,0

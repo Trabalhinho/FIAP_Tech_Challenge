@@ -1,0 +1,21 @@
+IdCampo,NomeCampo,TabelaVinculada,Tipo,IdConjunto,StAtivo,OrdemExibicao,Agrupamento,Descricao,TipoExibicao,StExibirPaginaExternaCaptacao,StObrigatorio,StPreencimentoPortalWeb,StPreenchimentoFichaInscricao
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0
+26,Nome do Padrinho/Madrinha,TbAluno,TEXTO,,True,7,,,,False,True,0,0
+27,Contatos do Padrinho/Madrinha (telefone e e-mail),TbAluno,TEXTO,,True,8,,,,False,True,0,0
+28,Possui irmãos estudando na ONG / Nome ,TbAluno,MEMO,,True,9,,,,False,True,0,0
+29,01 - ENTREGA DE ATIVIDADES (MATEMÁTICA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,1,,,,False,True,0,0
+30,01- OBSERVAÇÕES (MATEMÁTICA),TbAlunoRotinaEducacaoInfantil,TEXTO,,True,2,,,,False,True,0,0
+31,02 - ENTREGA DE ATIVIDADES (PORTUGUÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,3,,,,False,True,0,0
+32,02 - OBSERVAÇÕES (PORTUGUÊS),TbAlunoRotinaEducacaoInfantil,TEXTO,,True,4,,,,False,True,0,0
+33,03 - ENTREGA DE ATIVIDADES (INGLÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,5,,,,False,True,0,0
+34,03 - OBSERVAÇÕES (INGLÊS),TbAlunoRotinaEducacaoInfantil,TEXTO,,True,6,,,,False,True,0,0
+35,04 - ENTREGA DE ATIVIDADES (PSICOPEDAGOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,7,,,,False,True,0,0
+36,04 - OBSERVAÇÕES (PSICOPEDAGOGIA),TbAlunoRotinaEducacaoInfantil,TEXTO,,True,8,,,,False,True,0,0
+37,05 - ENTREGA DE ATIVIDADES (PSICOLOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,9,,,,False,True,0,0
+38,05 - OBSERVAÇÕES (PSICOLOGIA),TbAlunoRotinaEducacaoInfantil,TEXTO,,True,10,,,,False,True,0,0
+39,Observações ,TbAluno,MEMO,,True,5,,,,False,False,0,0
+40,Autorização de Saída ( está autorizado a sair sozinho(a)? ),TbAluno,TEXTO,,True,10,,,,False,False,0,0

@@ -1,0 +1,8 @@
+IdPeriodo,SiglaPeriodo,IdUnidade,NomePeriodo,DataInicial,DataFinal,DiasLetivos,SemanasLetivas,IdProximoPeriodo,AnoConclusao,StAtivo,ES_IdSerieRelacionada,StPermiteAlterarNotaHistorico,StInternetExibeBoletim,CoeficienteHoraAula,StDisponivelSolicitacaoDesconto,StDisponivelRMOnLine,StDisponivelInscrTurma
+1,2018  ,1,Ano letivo 2018               ,2018-01-01 00:00:00,2018-12-31 00:00:00,,,,2018  ,False,,True,True,1.000000,False,False,False
+2,2019  ,1,Ano letivo 2019               ,2019-01-01 00:00:00,2019-12-31 00:00:00,,,,2019  ,False,,True,True,1.000000,False,False,False
+3,2020  ,1,Ano letivo 2020               ,2020-01-01 00:00:00,2020-12-31 00:00:00,,,,2020  ,False,,True,True,1.000000,False,False,False
+4,2021  ,1,Ano letivo 2021               ,2021-01-01 00:00:00,2021-12-31 00:00:00,,,5.0,2021  ,True,,True,True,1.000000,False,False,False
+5,2022  ,1,Ano letivo 2022               ,2022-01-01 00:00:00,2022-12-31 00:00:00,,,6.0,2022  ,True,,True,True,1.000000,False,False,False
+6,2023  ,1,Ano letivo 2023               ,2023-01-01 00:00:00,2023-12-31 00:00:00,,,,2023  ,True,,True,True,1.000000,False,False,False
+7,2024  ,1,Ano letivo 2024               ,2024-01-01 00:00:00,2024-12-31 00:00:00,,,,2024  ,True,,True,True,1.000000,False,False,False

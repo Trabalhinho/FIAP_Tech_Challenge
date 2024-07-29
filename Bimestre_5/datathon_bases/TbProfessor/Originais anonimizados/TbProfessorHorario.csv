@@ -1,0 +1,9 @@
+IdProfessorHorario,IdProfessor,IdPeriodo,Dia,Aula
+2,2,4,5,M6
+3,2,4,5,M1
+4,2,4,2,M2
+5,2,4,2,M3
+6,2,4,2,T7
+7,2,4,5,T6
+8,2,4,6,T1
+9,2,5,4,M7

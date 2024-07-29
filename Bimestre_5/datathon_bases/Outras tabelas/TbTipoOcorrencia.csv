@@ -1,0 +1,37 @@
+IdTipoOcorrencia,NomeTipoOcorrencia,TipoOcorrencia,StGeraImpedimento,StOcorrenciaAluno,StOcorrenciaResponsavel,StOcorrenciaProfessor,IdTextoPersonalizado,IdTextoPersonalizadoOcorrencia,StAtivo,StDisponivelProfessorPortalWeb
+-99,Falta Justificada,D,False,True,False,False,,,True,False
+6,Indisciplinado em sala de aula,D,False,True,False,False,,,True,False
+8,*Contato da secretaria solicitando dados*,P,False,True,True,True,,,True,True
+10,Chegou atrasado,D,False,True,False,True,,,True,True
+11,*Mudança de Fase*,P,False,True,True,True,,,True,True
+12,*Mudança de Turma*,P,False,True,False,True,,,True,True
+13,*Desativação*,P,False,True,True,True,,,True,True
+14,Grupo 6 - Baixa concentração/ Falta de Foco,S,False,True,True,True,,,True,True
+15,Grupo 5 - Dinâmica familiar disfuncional,S,False,True,True,True,,,True,True
+17,Grupo 3 -  TDAH/Dific. de aprendizagem HD,S,False,True,True,True,,,True,True
+18,Grupo 7 - Orientação Parental,S,False,True,True,True,,,True,True
+20,Grupo 2 - Ansiedade (Angústia) HD,S,False,True,True,True,,,True,True
+21,Grupo 4 - Vulnerabilidade emocional,S,False,True,True,True,,,True,True
+22,Grupo 1 - Depressão (Autocobrança/Desmotivação) HD,S,False,True,True,True,,,True,True
+24,Realiza atendimento em grupo,S,False,True,True,True,,,True,True
+25,Comportamento inadequado,D,False,True,True,True,,,True,True
+26,Orientação,S,False,True,True,True,,,True,True
+27,Entrevista,S,False,True,True,True,,,True,True
+28,Aluno(a) se enquadra em mais de um desses grupos,S,False,True,True,True,,,True,True
+29,*Empréstimo de Aparelhos Eletrônicos*,P,False,True,True,True,,,True,True
+30,Assistência Social - Atendimento Família,S,False,True,True,True,,,True,True
+31,Psicol da família: Atividade Passos em família,S,False,True,True,True,,,True,True
+32,Neuropsicologia: Orientação Pedagógica,P,False,True,True,True,,,True,True
+33,Psicol da família: Atend familiar individual,S,False,True,True,True,,,True,True
+34,Atendimento Psiquiátrico,S,False,True,False,True,,,True,True
+35,Mentoria Individual - Coaching,S,False,True,True,True,,,True,True
+36,Psicol da família: Famílias Fortes,S,False,True,True,True,,,True,True
+37,Psicol da família: Páginas compartilhadas,S,False,True,True,True,,,True,True
+38,Psicol da família: Juntos na jornada *Casa Mágica,S,False,True,True,True,,,True,True
+39,"Passo-a-Passo, Conhecendo para Transformar (E.S.)",S,False,True,True,True,,,True,True
+40,Programa de Segurança Alimentar,S,False,True,True,True,,,True,True
+41,Café em Família,S,False,True,True,True,,,True,True
+42,Grupo 9 - Bullying,S,False,True,True,True,,,True,True
+43,Grupo 8 - Irritabilidade/Raiva HD,S,False,True,True,True,,,True,True
+44,Passos na Sua Casa (Visita Domiciliar),S,False,True,True,True,,,True,True
+45,Grupo 10 - Timidez/Introspecção,S,False,True,True,True,,,True,True

@@ -1,0 +1,12 @@
+CdTipoAbatimento,NomeTipoAbatimento,IdAbatimento,NomeAbatimento,IdUnidade,StAtivo,TipoDesconto,DiaDescontoCondicional,OrdemCalculo,StCalcularServicoPrecoDesconto,TipoBaseCalculo,TipoProrrogacaoAutomatica,_PercentualAbatimento,_ValorAbatimento,_TipoAbatimento,_StPerdeDescontoPorAntecipacao,_IdTipoAbatimento,IntegContabil_NumeroConta,PercentualDesconto,PercentualFGEduc,TipoFIES,CalcularDiaUtil,IntFinanceira_Codigo
+COMERCIAL,Comercial,-3,PI - Desconto não condicionado,1,False,NAOCOND,,999,False,SERVICO,P,,,,,,,,,,P,
+COMERCIAL,Comercial,-2,PI - Desconto condicionado,1,False,VENCIMENTO,,999,False,SERVICO,P,,,,,,,,,,P,
+COMERCIAL,Comercial,-1,Negociação,1,False,NAOCOND,,0,False,SERV-NCOND,M,0.0,0.0,B,True,,,,,,P,
+COMERCIAL,Comercial,1,Aluno Nota 10,1,True,FIM-MES,,1,True,SERV-NCOND,M,,,DFFM,False,1.0,,,,,P,
+COMERCIAL,Comercial,2,Filho de colaborador,1,True,FIM-MES,,2,True,SERV-NCOND,M,,,DFFM,False,1.0,,,,,P,
+COMERCIAL,Comercial,3,Filho de professor,1,True,FIM-MES,,3,True,SERV-NCOND,M,,,DFFM,False,2.0,,,,,P,
+COMERCIAL,Comercial,4,2º Filho,1,True,FIM-MES,,4,True,SERV-NCOND,M,,,DFFM,False,2.0,,,,,P,
+COMERCIAL,Comercial,5,3º Filho,1,True,FIM-MES,,5,True,SERV-NCOND,M,,,DFFM,False,2.0,,,,,P,
+COMERCIAL,Comercial,6,Desconto condicionado / migração,1,False,VENCIMENTO,,6,False,SERV-NCOND,M,0.0,0.0,DFV,True,,,,,,P,
+COMERCIAL,Comercial,8,Desconto inserido em negociação,1,True,VENCIMENTO,,999,False,SERV-NCOND,M,,,,,,,,,,P,
+COMERCIAL,Comercial,9,Desconto por antecipação,1,True,VENCIMENTO,,8,True,SERVICO,M,,,,,,,,,,P,

@@ -1,0 +1,138 @@
+IdCampo,NomeCampo,TabelaVinculada,Tipo,IdConjunto,StAtivo,OrdemExibicao,Agrupamento,Descricao_x,TipoExibicao,StExibirPaginaExternaCaptacao,StObrigatorio,StPreencimentoPortalWeb,StPreenchimentoFichaInscricao,NomeConjunto,IdElemento,Descricao_y
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4958,Bolsista Universitário *Formado (a)
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4878,Colégio Albert Einstein - SP
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4879,Colégio Alpha 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4877,Colégio Arco Íris Evolução 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4880,Colégio Franciscano Santa Clara 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4881,Colégio Nogueira e Sonho de Criança 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4953,Colégio Poliedro - SP
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4937,Concluiu o 3º EM
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4956,Cursinho Pré Vestibular (CPV)
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4882,EE Alexandre Rodrigues Nogueira 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4883,EE Bairro Boa Vista 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4884,EE Chácara Florida II
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4885,EE Dom Pedro Villas Boas de Souza 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4886,EE Donizetti Aparecido Leite Professor 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4887,EE Francisco de Paula Teixeira 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4888,EE Helio Luiz Dobrochinski Prof 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4890,EE Jardim Campestre 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4891,EE Jardim Silvania 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4892,EE João Ortiz Rodrigues 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4893,EE Joaquim Mendes Feliz 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4894,EE Leonice de Aquino Oliveira 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4895,EE Levi Pereira Martins Professor 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4896,EE Loris Nassif Mattar Profa 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4897,EE Luiz Schunck 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4889,EE Maria André Schunck Dona 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4898,EE Mario Francisco de Amorim 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4899,EE Neide Celestina de Oliveira
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4900,EE Neide Celestina de Oliveira Profa 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4901,EE Olivia de Faria Nogueira 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4902,EE Paschoal Carlos Magno 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4903,EM Alfredo Schunk 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4904,EM Amália Olímpia Trovoes Fabeny   
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4905,EM Amanda Consuelo da Cunha
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4906,EM Antonio Lucas Vieira 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4907,EM Bairro Lagoa Grande 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4908,EM Benedito Antonio Cezarino 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4909,EM Cecilia Cristina de Oliveira Rodrigues 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4910,EM Clara Rodrigues 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4911,EM Elton Rocumback dos Santos 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4912,EM Erika Azevedo Vieira Reis 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4913,EM Esther Aparecida Rodrigues dos Santos 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4914,EM Etelvina Delfim Simões 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4915,EM Eurides José Amorim 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4916,EM Floriza Justa Schunck 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4917,EM Idalina Machado das Dores 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4918,EM Joao Alves
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4919,EM João Gava 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4920,EM Jonas Gomes de Souza 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4921,EM Juvenal Coutinho 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4922,EM Lourdes Rasquinho Roschel 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4923,EM Madalena Branca dos Santos 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4924,EM Magda Pochini Cavinati 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4925,EM Maria Domingues da Silva 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4926,EM Maria Ignez Concelles Irma Ines 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4928,EM O Pequeno Principe 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4929,EM Paiol Velho 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4930,EM Pedro Antonio de Almeida 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4931,EM Professor Wladimir Costa 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4932,EM Rafael Cau Prefeito 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4933,EM Raisa Casoy 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4934,EM Sitio Gerassi 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4935,EM Uniao do Sabias 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4927,EM Vila Norgang 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4955,Escola João Paulo II
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4951,ESPM
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4943,Estuda em outra cidade
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4936,Faculdade FIAP
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4959,Faculdades Oswaldo Cruz
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4960,FGV
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4954,FIAP School - SP
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4957,INSPER
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4938,João Friaza Colégio 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4939,João XXII Serviço Assistencial 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4940,Movimento Renovador Paulo VI Lar Irmã Inês 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4941,Recanto Betânia Centro Educacional 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4942,Rede Decisão - Unidade União
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4952,SENAI
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4944,Tia Ligia Escola de Educação Infantil 
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4945,Unicamp
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4950,Universidade Anhembi Morumbi
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4946,Universidade Cruzeiro do Sul
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4947,Universidade Estácio de Sá
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4948,Universidade Mackenzie
+21,Estabelecimento de Ensino,TbAluno,CONJUNTO,15.0,True,1,,,,False,True,0,0,TbAluno - 15,4949,Universidade Santo Amaro (UNISA)
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4970,1º Ano - Ensino Médio
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4961,1º Ano - Fundamental I
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4971,2º Ano - Ensino Médio
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4962,2º Ano - Fundamental I
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4972,3º Ano - Ensino Médio
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4963,3º Ano - Fundamental I
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4964,4º Ano - Fundamental I
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4965,5º Ano - Fundamental I
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4966,6º Ano - Fundamental II
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4967,7º Ano - Fundamental II
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4968,8º Ano - Fundamental II
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4969,9º Ano - Fundamental II
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4976,Bolsista Universitário *Formado (a)
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4974,Concluiu o 3º EM
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4975,Curso Técnico *Parcerias
+22,Ano Escolar,TbAluno,CONJUNTO,14.0,True,2,,,,False,True,0,0,TbAluno - 14,4973,Universitário (a)
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4984,Bolsista Universitário *Formado (a)
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4983,Concluiu o 3º EM
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4980,Integral Manhã 7 às 14h
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4982,Integral Manhã/Tarde 7 às 16h
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4981,Integral Tarde 14 às 21h
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4977,Manhã
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4979,Noite
+23,Turno,TbAluno,CONJUNTO,12.0,True,3,,,,False,True,0,0,TbAluno - 12,4978,Tarde
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4991,Bolsista Universitário *Formado (a)
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4990,Concluiu o 3º EM
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4986,Privada
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4988,Privada  *Parcerias com Bolsa 100%
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4989,Privada - Pagamento por *Empresa Parceira 
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4987,Privada - Programa de Apadrinhamento
+24,Categoria da escola,TbAluno,CONJUNTO,11.0,True,4,,,lista_itens,False,True,0,0,TbAluno - 11,4985,Pública
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4993,Até 1 salário mínimo
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4994,De 1 a 2 salários mínimos
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4995,De 2 a 3 salários mínimos
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4996,De 3 a 4 salários mínimos 
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4997,De 4 a 5 salários mínimos 
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4998,Mais de 5 salários mínimos 
+25,Renda Mensal Familiar,TbAluno,CONJUNTO,13.0,True,6,,,,False,True,0,0,TbAluno - 13,4992,Sem renda
+29,01 - ENTREGA DE ATIVIDADES (MATEMÁTICA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,1,,,,False,True,0,0,Sim | Não | NA,2016,
+29,01 - ENTREGA DE ATIVIDADES (MATEMÁTICA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,1,,,,False,True,0,0,Sim | Não | NA,5,Não
+29,01 - ENTREGA DE ATIVIDADES (MATEMÁTICA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,1,,,,False,True,0,0,Sim | Não | NA,6,Sim
+31,02 - ENTREGA DE ATIVIDADES (PORTUGUÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,3,,,,False,True,0,0,Sim | Não | NA,2016,
+31,02 - ENTREGA DE ATIVIDADES (PORTUGUÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,3,,,,False,True,0,0,Sim | Não | NA,5,Não
+31,02 - ENTREGA DE ATIVIDADES (PORTUGUÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,3,,,,False,True,0,0,Sim | Não | NA,6,Sim
+33,03 - ENTREGA DE ATIVIDADES (INGLÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,5,,,,False,True,0,0,Sim | Não | NA,2016,
+33,03 - ENTREGA DE ATIVIDADES (INGLÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,5,,,,False,True,0,0,Sim | Não | NA,5,Não
+33,03 - ENTREGA DE ATIVIDADES (INGLÊS),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,5,,,,False,True,0,0,Sim | Não | NA,6,Sim
+35,04 - ENTREGA DE ATIVIDADES (PSICOPEDAGOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,7,,,,False,True,0,0,Sim | Não | NA,2016,
+35,04 - ENTREGA DE ATIVIDADES (PSICOPEDAGOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,7,,,,False,True,0,0,Sim | Não | NA,5,Não
+35,04 - ENTREGA DE ATIVIDADES (PSICOPEDAGOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,7,,,,False,True,0,0,Sim | Não | NA,6,Sim
+37,05 - ENTREGA DE ATIVIDADES (PSICOLOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,9,,,,False,True,0,0,Sim | Não | NA,2016,
+37,05 - ENTREGA DE ATIVIDADES (PSICOLOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,9,,,,False,True,0,0,Sim | Não | NA,5,Não
+37,05 - ENTREGA DE ATIVIDADES (PSICOLOGIA),TbAlunoRotinaEducacaoInfantil,CONJUNTO,2.0,True,9,,,,False,True,0,0,Sim | Não | NA,6,Sim

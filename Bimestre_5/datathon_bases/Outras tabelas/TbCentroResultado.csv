@@ -1,0 +1,6 @@
+IdCentroResultado,NomeCentroResultado,IdUnidade,IntegContabil_CentroResultado,StAtivo,StDisponivelAlmoxarifado
+1,Secretaria,1,,True,True
+2,Direção,1,,True,True
+3,Financeiro,1,,True,True
+4,Pedagógico,1,,True,True
+5,Captação,1,,True,True

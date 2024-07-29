@@ -1,0 +1,160 @@
+IdElemento,IdConjunto,Descricao
+1,1,Calmo
+2,1,Irritado
+3,1,Outros
+4,1,Sonolento
+2016,2,NA
+5,2,Não
+6,2,Sim
+7,3,Duas vezes
+8,3,Mais de duas vezes
+9,3,Nenhuma vez
+10,3,Uma vez
+11,4,Líquida
+12,4,Normal
+13,4,Pastosa
+14,5,Interagiu bem
+15,5,Interagiu pouco
+16,5,Não interagiu
+17,6,Bem
+18,6,Muito bem
+19,6,Não aceitou
+20,6,Regular
+21,7,Não tomou
+22,7,Tomo com ajuda
+23,7,Tomou sem ajuda
+24,8,Dormiu bem
+25,8,Dormiu pouco
+26,8,Não dormiu
+27,9,Não realizou
+28,9,Realizou ativamente
+29,9,Realizou parcialmente
+30,10,Diarreia
+31,10,Dor
+32,10,Febre
+33,10,Mordida
+34,10,Tombo
+35,10,Tosse
+36,10,Vômito
+4991,11,Bolsista Universitário *Formado (a)
+4990,11,Concluiu o 3º EM
+4986,11,Privada
+4988,11,Privada  *Parcerias com Bolsa 100%
+4989,11,Privada - Pagamento por *Empresa Parceira 
+4987,11,Privada - Programa de Apadrinhamento
+4985,11,Pública
+4984,12,Bolsista Universitário *Formado (a)
+4983,12,Concluiu o 3º EM
+4980,12,Integral Manhã 7 às 14h
+4982,12,Integral Manhã/Tarde 7 às 16h
+4981,12,Integral Tarde 14 às 21h
+4977,12,Manhã
+4979,12,Noite
+4978,12,Tarde
+4993,13,Até 1 salário mínimo
+4994,13,De 1 a 2 salários mínimos
+4995,13,De 2 a 3 salários mínimos
+4996,13,De 3 a 4 salários mínimos 
+4997,13,De 4 a 5 salários mínimos 
+4998,13,Mais de 5 salários mínimos 
+4992,13,Sem renda
+4970,14,1º Ano - Ensino Médio
+4961,14,1º Ano - Fundamental I
+4971,14,2º Ano - Ensino Médio
+4962,14,2º Ano - Fundamental I
+4972,14,3º Ano - Ensino Médio
+4963,14,3º Ano - Fundamental I
+4964,14,4º Ano - Fundamental I
+4965,14,5º Ano - Fundamental I
+4966,14,6º Ano - Fundamental II
+4967,14,7º Ano - Fundamental II
+4968,14,8º Ano - Fundamental II
+4969,14,9º Ano - Fundamental II
+4976,14,Bolsista Universitário *Formado (a)
+4974,14,Concluiu o 3º EM
+4975,14,Curso Técnico *Parcerias
+4973,14,Universitário (a)
+4958,15,Bolsista Universitário *Formado (a)
+4878,15,Colégio Albert Einstein - SP
+4879,15,Colégio Alpha 
+4877,15,Colégio Arco Íris Evolução 
+4880,15,Colégio Franciscano Santa Clara 
+4881,15,Colégio Nogueira e Sonho de Criança 
+4953,15,Colégio Poliedro - SP
+4937,15,Concluiu o 3º EM
+4956,15,Cursinho Pré Vestibular (CPV)
+4882,15,EE Alexandre Rodrigues Nogueira 
+4883,15,EE Bairro Boa Vista 
+4884,15,EE Chácara Florida II
+4885,15,EE Dom Pedro Villas Boas de Souza 
+4886,15,EE Donizetti Aparecido Leite Professor 
+4887,15,EE Francisco de Paula Teixeira 
+4888,15,EE Helio Luiz Dobrochinski Prof 
+4890,15,EE Jardim Campestre 
+4891,15,EE Jardim Silvania 
+4892,15,EE João Ortiz Rodrigues 
+4893,15,EE Joaquim Mendes Feliz 
+4894,15,EE Leonice de Aquino Oliveira 
+4895,15,EE Levi Pereira Martins Professor 
+4896,15,EE Loris Nassif Mattar Profa 
+4897,15,EE Luiz Schunck 
+4889,15,EE Maria André Schunck Dona 
+4898,15,EE Mario Francisco de Amorim 
+4899,15,EE Neide Celestina de Oliveira
+4900,15,EE Neide Celestina de Oliveira Profa 
+4901,15,EE Olivia de Faria Nogueira 
+4902,15,EE Paschoal Carlos Magno 
+4903,15,EM Alfredo Schunk 
+4904,15,EM Amália Olímpia Trovoes Fabeny   
+4905,15,EM Amanda Consuelo da Cunha
+4906,15,EM Antonio Lucas Vieira 
+4907,15,EM Bairro Lagoa Grande 
+4908,15,EM Benedito Antonio Cezarino 
+4909,15,EM Cecilia Cristina de Oliveira Rodrigues 
+4910,15,EM Clara Rodrigues 
+4911,15,EM Elton Rocumback dos Santos 
+4912,15,EM Erika Azevedo Vieira Reis 
+4913,15,EM Esther Aparecida Rodrigues dos Santos 
+4914,15,EM Etelvina Delfim Simões 
+4915,15,EM Eurides José Amorim 
+4916,15,EM Floriza Justa Schunck 
+4917,15,EM Idalina Machado das Dores 
+4918,15,EM Joao Alves
+4919,15,EM João Gava 
+4920,15,EM Jonas Gomes de Souza 
+4921,15,EM Juvenal Coutinho 
+4922,15,EM Lourdes Rasquinho Roschel 
+4923,15,EM Madalena Branca dos Santos 
+4924,15,EM Magda Pochini Cavinati 
+4925,15,EM Maria Domingues da Silva 
+4926,15,EM Maria Ignez Concelles Irma Ines 
+4928,15,EM O Pequeno Principe 
+4929,15,EM Paiol Velho 
+4930,15,EM Pedro Antonio de Almeida 
+4931,15,EM Professor Wladimir Costa 
+4932,15,EM Rafael Cau Prefeito 
+4933,15,EM Raisa Casoy 
+4934,15,EM Sitio Gerassi 
+4935,15,EM Uniao do Sabias 
+4927,15,EM Vila Norgang 
+4955,15,Escola João Paulo II
+4951,15,ESPM
+4943,15,Estuda em outra cidade
+4936,15,Faculdade FIAP
+4959,15,Faculdades Oswaldo Cruz
+4960,15,FGV
+4954,15,FIAP School - SP
+4957,15,INSPER
+4938,15,João Friaza Colégio 
+4939,15,João XXII Serviço Assistencial 
+4940,15,Movimento Renovador Paulo VI Lar Irmã Inês 
+4941,15,Recanto Betânia Centro Educacional 
+4942,15,Rede Decisão - Unidade União
+4952,15,SENAI
+4944,15,Tia Ligia Escola de Educação Infantil 
+4945,15,Unicamp
+4950,15,Universidade Anhembi Morumbi
+4946,15,Universidade Cruzeiro do Sul
+4947,15,Universidade Estácio de Sá
+4948,15,Universidade Mackenzie
+4949,15,Universidade Santo Amaro (UNISA)
