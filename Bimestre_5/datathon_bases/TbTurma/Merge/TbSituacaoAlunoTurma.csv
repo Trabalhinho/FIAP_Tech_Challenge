@@ -1,0 +1,12 @@
+IdSituacaoAlunoTurma,SituacaoAlunoTurma,SituacaoSistema,SituacaoAcademica,StPermitirDigitacaoNotaFalta,StPermiteAssinaturaEletronica,CdSituacaoEducaCenso,DominioSituacaoAlunoTurma
+1,Cursando,A,,True,False,,nao_informado
+5,Pré-matrícula,P,,False,False,,nao_informado
+9,Troca de Fase *Anual,I,A,True,False,,nao_informado
+10,Mantido Fase *Anual,I,R,True,False,,nao_informado
+12,Aprovado P. Parcial,I,D,True,False,,nao_informado
+14,Desistente,I,,False,False,,nao_informado
+15,Lista de espera,S,,False,False,,nao_informado
+16,Pré-matrícula online,P,,False,False,,nao_informado
+19,Mudança de Fase,I,,False,False,1.0,nao_informado
+21,Retido Idade *Anual,I,R,True,False,,nao_informado
+22,Reprovado,I,R,False,False,,nao_informado
